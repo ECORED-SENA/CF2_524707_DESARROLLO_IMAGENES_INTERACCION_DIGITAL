@@ -1,8 +1,9 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Producción de contenidos digitales',
+    Description:
+      'La composición de efectos visuales consiste en la creación de productos a partir de la manipulación y combinación de elementos digitales, con el fin de generar piezas que transmitan la sensación de unidad en la imagen resultante, independiente de si es real o no. Este concepto puede aplicarse tanto a imágenes fijas, en movimiento o audiovisuales y páginas web; aprendizajes que serán abordados en el presente componente formativo',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
