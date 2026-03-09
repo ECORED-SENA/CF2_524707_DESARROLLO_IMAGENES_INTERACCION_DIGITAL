@@ -297,7 +297,7 @@
               figure
                 img(src='@/assets/curso/tema2/22.png', alt='Texto que describa la imagen')
 
-          h3.mb-4.text-center CorelDRAW
+          h3.mb-4.text-center <em>CorelDRAW</em>
           p.text-center Programa de diseño vectorial que permite crear diagramas, organigramas y estructuras visuales mediante herramientas de dibujo y alineación.
 
       .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-down")
@@ -310,7 +310,7 @@
               figure
                 img(src='@/assets/curso/tema2/23.png', alt='Texto que describa la imagen')
 
-          h3.mb-4.text-center Adobe FreeHand
+          h3.mb-4.text-center <em>Adobe FreeHand</em>
           p.text-center Editor vectorial originalmente desarrollado por Macromedia y posteriormente por Adobe. Permitía la elaboración de esquemas y representaciones gráficas estructuradas.
       
       .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-up")
@@ -323,15 +323,15 @@
               figure
                 img(src='@/assets/curso/tema2/24.png', alt='Texto que describa la imagen')
 
-          h3.mb-4.text-center Adobe Illustrator
+          h3.mb-4.text-center <em>Adobe Illustrator</em>
           p.text-center Herramienta profesional de diseño vectorial que facilita la construcción de diagramas complejos mediante formas, capas y guías de alineación.
     
     separador
     
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.4 Maquetación web
+      h2 2.4 Maquetación <em>web</em>
     
-    p.mb-5 La maquetación web se inicia con la construcción del mapa de navegación, donde se planifica el contenido y la organización de cada página y subpágina del sitio. Consiste en definir, organizar y posicionar los contenidos dentro de una estructura que favorezca la lectura, la claridad informativa y una experiencia de usuario coherente. Este proceso requiere conocimientos técnicos en lenguajes de programación y estándares web. Para desarrollar adecuadamente la maquetación, se deben considerar los siguientes aspectos:
+    p.mb-5 La maquetación <em>web</em> se inicia con la construcción del mapa de navegación, donde se planifica el contenido y la organización de cada página y subpágina del sitio. Consiste en definir, organizar y posicionar los contenidos dentro de una estructura que favorezca la lectura, la claridad informativa y una experiencia de usuario coherente. Este proceso requiere conocimientos técnicos en lenguajes de programación y estándares web. Para desarrollar adecuadamente la maquetación, se deben considerar los siguientes aspectos:
 
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-lg-5
@@ -355,10 +355,10 @@
               figure
                 img(src='@/assets/curso/tema2/27.png', alt='Imagen de acompañamiento')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
-              h4 Uso de estándares web
-              p.mb-0 Aplicar recomendaciones lideradas por el World Wide Web Consortium (W3C), garantizando accesibilidad universal, robustez técnica y compatibilidad con distintos dispositivos y tecnologías.
+              h4 Uso de estándares <em>web</em>
+              p.mb-0 Aplicar recomendaciones lideradas por el <em>World Wide Web Consortium (W3C)</em>, garantizando accesibilidad universal, robustez técnica y compatibilidad con distintos dispositivos y tecnologías.
     
-    p Asimismo, en la maquetación web es fundamental considerar la interfaz gráfica de usuario o GUI (Graphic User Interface), entendida como el entorno visual mediante el cual el usuario interactúa con el sistema. La GUI integra imágenes, iconos, botones y demás objetos gráficos que permiten acceder a funcionalidades y comprender la información presentada en pantalla.
+    p Asimismo, en la maquetación <em>web</em> es fundamental considerar la interfaz gráfica de usuario o <em>GUI (Graphic User Interface)</em>, entendida como el entorno visual mediante el cual el usuario interactúa con el sistema. La <em>GUI</em> integra imágenes, iconos, botones y demás objetos gráficos que permiten acceder a funcionalidades y comprender la información presentada en pantalla.
 
     separador
     
