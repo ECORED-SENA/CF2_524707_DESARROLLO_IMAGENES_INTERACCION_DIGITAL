@@ -16,7 +16,7 @@
           .col-lg-9.order-lg-1
             p El concepto de composición gráfica se refiere a la organización de elementos dentro del espacio visual con el propósito de construir una imagen que transmita una idea de manera sencilla y directa a un público objetivo. Esta premisa mantiene su validez en la creación y edición de imágenes fijas; sin embargo, adquiere un sentido distinto cuando se trata de imágenes en movimiento, donde intervienen factores narrativos y temporales.
             .bg-color-1.px-5.py-4
-              p.mb-0 En el ámbito audiovisual, suele emplearse indistintamente los términos edición y montaje. No obstante, desde la teoría del lenguaje audiovisual se establece una diferencia conceptual relevante. La palabra montage, de origen francés, alude a montar o superponer elementos; sin embargo, el montaje se vincula con el proceso narrativo de articulación de significados, mientras que la edición corresponde principalmente a un procedimiento técnico.
+              p.mb-0 En el ámbito audiovisual, suele emplearse indistintamente los términos edición y montaje. No obstante, desde la teoría del lenguaje audiovisual se establece una diferencia conceptual relevante. La palabra montaje, de origen francés, alude a montar o superponer elementos; sin embargo, el montaje se vincula con el proceso narrativo de articulación de significados, mientras que la edición corresponde principalmente a un procedimiento técnico.
 
         p.mb-5 El montaje audiovisual constituye, por tanto, la fase técnica y narrativa final del producto audiovisual. Aunque se concreta en la etapa de posproducción, su sentido queda previamente definido desde la elaboración del guion, ya que responde a las intenciones del emisor y a las capacidades interpretativas del receptor.
 
@@ -66,7 +66,7 @@
               img(src="@/assets/curso/tema1/5.png", data-aos="zoom-in")
           .col-lg-8.order-lg-1
             .bg-color-4.px-5.py-4.mb-3
-              p.mb-0 Cuando se aborda la edición digital de imágenes, intervienen tres componentes fundamentales: una imagen, un terminal computarizado (equipo de escritorio, portátil, tablet, celular u otro dispositivo móvil) y un software especializado. Este proceso permite transformar, optimizar o adaptar la imagen según las necesidades comunicativas, técnicas o estéticas del proyecto.
+              p.mb-0 Cuando se aborda la edición digital de imágenes, intervienen tres componentes fundamentales: una imagen, un terminal computarizado (equipo de escritorio, portátil, tablet, celular u otro dispositivo móvil) y un <em>software</em> especializado. Este proceso permite transformar, optimizar o adaptar la imagen según las necesidades comunicativas, técnicas o estéticas del proyecto.
             p Antes de profundizar en el proceso de edición, es necesario comprender qué es una imagen digital, cuáles son sus características y qué tipos existen, pues de esta clasificación dependerá su tratamiento técnico. Entre los elementos vinculados al proceso de captura y digitalización de la imagen se encuentran:
 
             .row.justify-content-center.mb-3
@@ -302,10 +302,10 @@
 
                 .bloque-texto-c.p-4
                   i.fas.fa-quote-right
-                  p.mb-2 Es la manipulación, a través de programas de edición gráfica, de imágenes capturadas o previamente diseñadas, con la intención de reforzar conceptos o mensajes mediante la modificación del color, formas, composición, contrastes, estilo, etcétera. La edición para hacer collages o mejorar la calidad de la imagen es también un recurso de gran valor en publicidad; gracias a ello, se pueden exagerar o disminuir rasgos o elementos de todo tipo
+                  p.mb-2 Es la manipulación, a través de programas de edición gráfica, de imágenes capturadas o previamente diseñadas, con la intención de reforzar conceptos o mensajes mediante la modificación del color, formas, composición, contrastes, estilo, etcétera. La edición para hacer collages o mejorar la calidad de la imagen es también un recurso de gran valor en publicidad; gracias a ello, se pueden exagerar o disminuir rasgos o elementos de todo tipo.
                   span <b>(Viveros, 2005).</b>
     
-    p.mb-5 El tratamiento se realiza mediante un editor de imágenes, es decir, un software especializado que proporciona herramientas, efectos, opciones de ajuste y posibilidades de modificación del formato al momento de guardar el archivo.
+    p.mb-5 El tratamiento se realiza mediante un editor de imágenes, es decir, un <em>software</em> especializado que proporciona herramientas, efectos, opciones de ajuste y posibilidades de modificación del formato al momento de guardar el archivo.
 
     div.bg-color-6.p-3.d-inline-flex.tarjeta.mb-3
       h4.mb-0 Aspectos de la edición de imágenes
@@ -335,9 +335,9 @@
               img(src='@/assets/curso/tema1/22.png', alt='Texto que describa la imagen')
           
         h2.mb-5 Aspectos técnicos
-        p Comprenden el manejo de herramientas del software, ajustes de color, iluminación, contraste, composición, formato y exportación del archivo final.
+        p Comprenden el manejo de herramientas del <em>software</em>, ajustes de color, iluminación, contraste, composición, formato y exportación del archivo final.
     
-    p.mb-5 Según Viveros (2005), lo conceptual incide directamente en la significación del producto. Estos aspectos fueron desarrollados en el Componente Formativo Diseño para contenidos digitales, en el apartado de Diseño, y se aplican tanto en la creación como en la captura o edición de imágenes digitales. Dentro de este marco se destacan dos procesos fundamentales: la composición digital y el retoque digital.
+    p.mb-5 Según Viveros (2005), lo conceptual incide directamente en la significación del producto. Estos aspectos fueron desarrollados en el componente formativo diseño para contenidos digitales, en el apartado de diseño, y se aplican tanto en la creación como en la captura o edición de imágenes digitales. Dentro de este marco se destacan dos procesos fundamentales: la composición digital y el retoque digital.
 
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-lg-5
@@ -355,7 +355,7 @@
                 img(src='@/assets/curso/tema1/24.png', alt='Imagen de acompañamiento')
             .col-lg-7.mb-4.mb-md-0.order-lg-1
               h4 Retoque digital
-              p.mb-0 Aunque implica conocimiento técnico de las herramientas del software, el retoque digital posee igualmente una dimensión creativa. Permite modificar escenarios, iluminación, color y percepción para construir una nueva imagen o reforzar significados específicos. De esta manera, el retoque no solo optimiza la calidad técnica, sino que también potencia la intención comunicativa.
+              p.mb-0 Aunque implica conocimiento técnico de las herramientas del <em>software</em>, el retoque digital posee igualmente una dimensión creativa. Permite modificar escenarios, iluminación, color y percepción para construir una nueva imagen o reforzar significados específicos. De esta manera, el retoque no solo optimiza la calidad técnica, sino que también potencia la intención comunicativa.
 
     div.bg-color-6.p-3.d-inline-flex.tarjeta.mb-3
       h4.mb-0 Herramientas para la edición
@@ -484,44 +484,44 @@
               ul.lista-ul--color.ms-2.mb-0
                 li.mb-1.d-flex
                   i.fas.fa-circle-check.bg-color-11
-                  | GIMP
+                  | <em>GIMP</em>
                 li.mb-1.d-flex
                   i.fas.fa-circle-check.bg-color-11
-                  | Krita
+                  | <em>Krita</em>
                 li.mb-1.d-flex
                   i.fas.fa-circle-check.bg-color-11
-                  | Paint.NET
+                  | <em>Paint.NET</em>
                 li.mb-1.d-flex
                   i.fas.fa-circle-check.bg-color-11
                   | Canva
                 li.mb-1.d-flex
                   i.fas.fa-circle-check.bg-color-11
-                  | Pixlr
+                  | <em>Pixlr</em>
                 li.mb-1.d-flex
                   i.fas.fa-circle-check.bg-color-11
-                  | Photoscape X
+                  | <em>Photoscape X</em>
           .col-lg-6.mb-3.mb-lg-0
             .bg-color-4.p-4
               h4 De pago
               ul.lista-ul--color.ms-2.mb-0
                 li.mb-1.d-flex
                   i.fas.fa-circle-check.bg-color-11
-                  | Adobe Photoshop
+                  | <em>Adobe Photoshop</em>
                 li.mb-1.d-flex
                   i.fas.fa-circle-check.bg-color-11
-                  | PaintShop Pro
+                  | <em>PaintShop Pro</em>
                 li.mb-1.d-flex
                   i.fas.fa-circle-check.bg-color-11
-                  | Pixelmator Pro
+                  | <em>Pixelmator Pro</em>
                 li.mb-1.d-flex
                   i.fas.fa-circle-check.bg-color-11
-                  | Lightroom
+                  | <em>Lightroom</em>
                 li.mb-1.d-flex
                   i.fas.fa-circle-check.bg-color-11
-                  | PhotoDirector
+                  | <em>PhotoDirector</em>
                 li.mb-1.d-flex
                   i.fas.fa-circle-check.bg-color-11
-                  | PicMonkey
+                  | <em>PicMonkey</em>
 
     p En conclusión, la edición de imágenes articula intención conceptual, creatividad y dominio técnico. La elección del editor y del tipo de licencia dependerá del objetivo comunicativo, la complejidad del proyecto y el contexto de uso, ya sea digital o impreso.
 
@@ -537,7 +537,7 @@
             figure
               img(src="@/assets/curso/tema1/47.png", data-aos="zoom-in")
           .col-lg-9.order-lg-1
-            p La edición de audio se refiere a la posibilidad de manipular diferentes elementos sonoros mediante el uso de un terminal computarizado y un software específico. Su propósito es integrar, modificar o generar sonidos que respondan a una necesidad comunicativa concreta, ya sea en producciones audiovisuales, contenidos multimedia o proyectos digitales.
+            p La edición de audio se refiere a la posibilidad de manipular diferentes elementos sonoros mediante el uso de un terminal computarizado y un <em>software</em> específico. Su propósito es integrar, modificar o generar sonidos que respondan a una necesidad comunicativa concreta, ya sea en producciones audiovisuales, contenidos multimedia o proyectos digitales.
             .bg-color-1.px-5.py-4
               p.mb-0 El sonido digital posee condiciones y parámetros característicos que influyen en su tratamiento técnico. Entre ellos se destacan su dinamismo, su capacidad de interactividad, su condición ubicua, al poder reproducirse en diversos dispositivos y contextos, y su naturaleza versátil, que facilita su adaptación a múltiples entornos tecnológicos.
 
@@ -563,21 +563,21 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-9")
           div(titulo="MP3")
             p.ms-5.mb-0 Formato comprimido con pérdida y amplia compatibilidad. Reduce significativamente el tamaño del archivo mediante la eliminación de frecuencias menos perceptibles para el oído humano.
-          div(titulo="WAV")
-            p.ms-5.mb-0 Formato sin compresión desarrollado por Microsoft e IBM. Ofrece alta calidad de sonido, aunque genera archivos de mayor tamaño.
-          div(titulo="AIFF")
-            p.ms-5.mb-0 Audio <em>Interchange File Format</em>, desarrollado por Apple. Similar a WAV en calidad y peso. Actualmente ambos formatos son compatibles entre sistemas.
-          div(titulo="WMA")
-            p.ms-5.mb-0 <em>Windows Media Audio</em>, creado por Microsoft. Formato comprimido con pérdida que ocupa menos espacio que MP3, aunque implica reducción de calidad.
-          div(titulo="AAC")
-            p.ms-5.mb-0 <em>Advanced Audio Coding</em>. Formato comprimido con pérdida utilizado por Apple en iTunes y dispositivos iPod. Considerado una evolución del MP3 (<em>Truesdell</em>, 2007, p. 516).
+          div(titulo="<em>WAV</em>")
+            p.ms-5.mb-0 Formato sin compresión desarrollado por <em>Microsoft</em> e <em>IBM</em>. Ofrece alta calidad de sonido, aunque genera archivos de mayor tamaño.
+          div(titulo="<em>AIFF</em>")
+            p.ms-5.mb-0 Audio <em>Interchange File Format</em>, desarrollado por <em>Apple</em>. Similar a <em>WAV</em> en calidad y peso. Actualmente, ambos formatos son compatibles entre sistemas.
+          div(titulo="<em>WMA</em>")
+            p.ms-5.mb-0 <em>Windows Media Audio</em>, creado por <em>Microsoft</em>. Formato comprimido con pérdida que ocupa menos espacio que MP3, aunque implica reducción de calidad.
+          div(titulo="<em>AAC</em>")
+            p.ms-5.mb-0 <em>Advanced Audio Coding</em>. Formato comprimido con pérdida utilizado por <em>Apple</em> en <em> iTunes</em> y dispositivos <em>iPod</em>. Considerado una evolución del MP3 (<em>Truesdell</em>, 2007, p. 516).
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto Formatos para transmisión en líneal
     
-    p.mb-5 Esta categoría incluye los formatos optimizados para servicios de streaming y distribución digital, donde resulta fundamental equilibrar calidad sonora y tamaño del archivo.
+    p.mb-5 Esta categoría incluye los formatos optimizados para servicios de <em>streaming</em> y distribución digital, donde resulta fundamental equilibrar calidad sonora y tamaño del archivo.
 
     .row.mb-5.align-items-center.justify-content-center
       .col-md-8.col-lg-3.mb-3.mb-lg-0.order-lg-2
@@ -585,12 +585,12 @@
           img(src="@/assets/curso/tema1/49.png", data-aos="zoom-in")
       .col-lg-9.order-lg-1
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-9")
-          div(titulo="OGG")
-            p.ms-5.mb-0 Archivo comprimido adecuado para transmisión por redes inalámbricas. Puede contener audio y video. No es compatible con dispositivos Apple o sistema iOS.
-          div(titulo="FLAC")
-            p.ms-5.mb-0 <em>Free Lossless Audio Codec</em>. Formato libre y abierto que reduce el tamaño del archivo sin pérdida de calidad. Se considera competencia directa de WAV.
-          div(titulo="ALAC")
-            p.ms-5.mb-0 <em>Apple Lossless Audio Codec</em>. Alternativa de Apple al formato FLAC. Utilizado en transmisiones de Apple Music.
+          div(titulo="<em>OGG</em>")
+            p.ms-5.mb-0 Archivo comprimido adecuado para transmisión por redes inalámbricas. Puede contener audio y video. No es compatible con dispositivos <em>Apple</em> o sistema <em>iOS</em>.
+          div(titulo="<em>FLAC</em>")
+            p.ms-5.mb-0 <em>Free Lossless Audio Codec</em>. Formato libre y abierto que reduce el tamaño del archivo sin pérdida de calidad. Se considera competencia directa de <em>WAV</em>.
+          div(titulo="<em>ALAC</em>")
+            p.ms-5.mb-0 <em>Apple Lossless Audio Codec</em>. Alternativa de <em>Apple</em> al formato <em>FLAC</em>. Utilizado en transmisiones de <em>Apple Music</em>.
     
     p.mb-5 En conclusión, la selección del formato de audio depende del contexto de uso, el medio de distribución y el equilibrio requerido entre calidad sonora y tamaño del archivo. Los formatos con pérdida permiten mayor compresión y menor peso, mientras que los formatos sin pérdida priorizan fidelidad de sonido a costa de mayor capacidad de almacenamiento.
 
@@ -613,49 +613,49 @@
             .row.justify-content-center.mb-3
               .col-10
                 img(src='@/assets/curso/tema1/50.png' alt='AvatarTop')
-            h2.text-center Audacity
+            h2.text-center <em>Audacity</em>
             p.text-center Programa gratuito y de código abierto que permite grabar y editar sonido. Es ampliamente utilizado en entornos educativos y profesionales.
 
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
                 img(src='@/assets/curso/tema1/51.png' alt='AvatarTop')
-            h2.text-center Power Sound Editor
+            h2.text-center <em>Power Sound Editor</em>
             p.text-center Permite realizar tareas avanzadas de edición, grabación y mezcla de archivos de audio.
 
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
                 img(src='@/assets/curso/tema1/52.png' alt='AvatarTop')
-            h2.text-center mp3DirectCut
+            h2.text-center <em>mp3DirectCut</em>
             p.text-center Facilita la edición rápida de archivos MP3 sin necesidad de descomprimirlos previamente.
           
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
                 img(src='@/assets/curso/tema1/53.png' alt='AvatarTop')
-            h2.text-center Music Editor Free
+            h2.text-center <em>Music Editor Free</em>
             p.text-center Software para grabar y editar música. Permite cortar, copiar, pegar y aplicar efectos a pistas de audio.
 
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
                 img(src='@/assets/curso/tema1/54.png' alt='AvatarTop')
-            h2.text-center Wavosaur
+            h2.text-center <em>Wavosaur</em>
             p.text-center Compatible con Windows 98, XP y Vista. Permite grabar y editar archivos WAV o MP3, con funciones básicas de edición.
 
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
                 img(src='@/assets/curso/tema1/55.png' alt='AvatarTop')
-            h2.text-center Expstudio
+            h2.text-center <em>Expstudio</em>
             p.text-center Ofrece múltiples funciones de edición. La versión gratuita solo permite guardar archivos finales en formato WAV o MP2.
           
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
                 img(src='@/assets/curso/tema1/56.png' alt='AvatarTop')
-            h2.text-center DJ Audio Editor
+            h2.text-center <em>DJ Audio Editor</em>
             p.text-center Limita la imagen a un máximo de 256 colores (M., 2014).
 
         div.bg-color-6.p-3.d-inline-flex.tarjeta.mb-3
@@ -668,31 +668,31 @@
             .row.justify-content-center.mb-3
               .col-10
                 img(src='@/assets/curso/tema1/57.png' alt='AvatarTop')
-            h2.text-center WavePad
+            h2.text-center <em>WavePad</em>
             p.text-center Permite grabar y editar música, voz y otros archivos de audio. Incluye funciones básicas de edición. Disponible también para dispositivos móviles.
 
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
                 img(src='@/assets/curso/tema1/58.png' alt='AvatarTop')
-            h2.text-center Let's Make Music
+            h2.text-center <em>Let's Make Music</em>
             p.text-center Orientado a la producción musical. Permite crear melodías, sintetizar y mezclar sonidos, y organizar composiciones.
 
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
                 img(src='@/assets/curso/tema1/59.png' alt='AvatarTop')
-            h2.text-center WaveSurfer
+            h2.text-center <em>WaveSurfer</em>
             p.text-center Software de código abierto diseñado tanto para usuarios avanzados como principiantes.
           
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
                 img(src='@/assets/curso/tema1/60.png' alt='AvatarTop')
-            h2.text-center Adobe Audition
-            p.text-center Aplicación profesional desarrollada por Adobe Systems Incorporated. Ofrece un entorno multipista para edición, mezcla y producción de audio digital.
+            h2.text-center <em>Adobe Audition</em>
+            p.text-center Aplicación profesional desarrollada por <em>Adobe Systems Incorporated</em>. Ofrece un entorno multipista para edición, mezcla y producción de audio digital.
 
-    p En síntesis, los programas de edición de audio offline ofrecen distintas funcionalidades según el nivel de complejidad requerido. Algunas herramientas se orientan a tareas básicas como cortar o unir fragmentos, mientras que otras permiten procesos avanzados de mezcla multipista, incorporación de efectos y producción musical completa. La elección del programa dependerá del sistema operativo disponible, el nivel de experiencia del usuario y el objetivo del proyecto sonoro.
+    p En síntesis, los programas de edición de audio <em>offline</em> ofrecen distintas funcionalidades según el nivel de complejidad requerido. Algunas herramientas se orientan a tareas básicas como cortar o unir fragmentos, mientras que otras permiten procesos avanzados de mezcla multipista, incorporación de efectos y producción musical completa. La elección del programa dependerá del sistema operativo disponible, el nivel de experiencia del usuario y el objetivo del proyecto sonoro.
 
     separador
     
@@ -717,7 +717,7 @@
               .p-4
                 p.mb-0(data-aos="fade-up") La imagen en movimiento comprende aquellas representaciones que se reproducen mediante medios audiovisuales y que desarrollan secuencias narrativas, como el cine, la animación, el video o el formato GIF.
 
-    p.mb-5 El movimiento se produce cuando una sucesión de imágenes estáticas, denominadas fotogramas, se proyecta a gran velocidad. Para que una imagen fija se perciba en movimiento se requiere un mínimo de 16 imágenes por segundo; sin embargo, para generar una sensación de realismo se emplean 24 fotogramas por segundo en el cine y 25 en televisión y video.
+    p.mb-5 El movimiento se produce cuando una sucesión de imágenes estáticas, denominadas fotogramas, se proyecta a gran velocidad. Para que una imagen fija se perciba en movimiento, se requiere un mínimo de 16 imágenes por segundo; sin embargo, para generar una sensación de realismo, se emplean 24 fotogramas por segundo en el cine y 25 en televisión y video.
 
     div.bg-color-6.p-3.d-inline-flex.tarjeta.mb-3
       h4.mb-0 Aspectos de la edición de video
@@ -763,7 +763,7 @@
               figure
                 img(src='@/assets/curso/tema1/64.png', alt='Texto que describa la imagen')
 
-          h3.mb-4.text-center Travelling
+          h3.mb-4.text-center <em>Travelling</em>
           p.text-center Movimiento de cámara que acompaña al personaje o elemento durante su desplazamiento de un lugar a otro.
 
       .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-down")
@@ -825,7 +825,7 @@
                 img(src='@/assets/curso/tema1/70.png', alt='Imagen de acompañamiento')
             .col-lg-7.mb-4.mb-md-0.order-lg-1
               h4 Plano americano
-              p.mb-0 Surge en el western, donde era necesario incluir la pistola del vaquero. Comprende desde debajo de la cintura hasta la cabeza del personaje.
+              p.mb-0 Surge en el <em>western</em>, donde era necesario incluir la pistola del vaquero. Comprende desde debajo de la cintura hasta la cabeza del personaje.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-3.mb-3.mb-lg-0.order-lg-2
               figure
@@ -865,7 +865,7 @@
     .bg-full-width.bg-color-3
       .px-4.px-md-5.py-4
         p El proceso de edición de video consiste en la creación de un producto audiovisual a partir de la selección y unión de fragmentos de video y audio previamente grabados mediante dispositivos digitales, como cámaras.
-        p.mb-5 Históricamente se distinguían dos formas de edición: analógica y digital. En la actualidad, la edición analógica se encuentra prácticamente descontinuada, y la producción audiovisual se desarrolla bajo entornos de edición digital, que ofrecen mayor precisión, flexibilidad y control técnico.
+        p.mb-5 Históricamente, se distinguían dos formas de edición: analógica y digital. En la actualidad, la edición analógica se encuentra prácticamente descontinuada, y la producción audiovisual se desarrolla bajo entornos de edición digital, que ofrecen mayor precisión, flexibilidad y control técnico.
 
         .row.justify-content-center.mb-5
           .col-lg-10
@@ -885,7 +885,7 @@
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
             h3.titulo-con-imagen__texto Herramientas técnicas para la edición de video
         
-        p.mb-5 Para iniciar el proceso de edición es indispensable contar con dos herramientas básicas que permitan organizar y procesar el material en bruto, es decir, el conjunto total de grabaciones obtenidas.
+        p.mb-5 Para iniciar el proceso de edición, es indispensable contar con dos herramientas básicas que permitan organizar y procesar el material en bruto, es decir, el conjunto total de grabaciones obtenidas.
 
     .tarjeta--container.row.mb-5
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
@@ -910,7 +910,7 @@
               img(src='@/assets/curso/tema1/77.png', alt='Texto que describa la imagen')
           
         h2.mb-5 Programa de edición
-        p Software especializado que permite cortar, unir, ajustar, incorporar efectos, sincronizar audio y exportar el producto final en distintos formatos.
+        p <em>Software</em> especializado que permite cortar, unir, ajustar, incorporar efectos, sincronizar audio y exportar el producto final en distintos formatos.
     
     p.mb-5 El guion técnico, utilizado inicialmente en la etapa de grabación, adquiere en la edición un valor estructural. En él se consigna la organización narrativa del producto audiovisual: el orden de las escenas, los planos que contiene cada una, las transiciones entre secuencias, los sonidos asociados y los elementos gráficos complementarios, como títulos o imágenes insertadas.
 

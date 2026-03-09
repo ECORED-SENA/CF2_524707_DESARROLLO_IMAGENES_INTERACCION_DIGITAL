@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Creación web
+      h1 Creación <em>web</em>
 
     .bg-full-width.bg-color-3
       .px-4.px-md-5.py-4
@@ -19,9 +19,9 @@
                   img(src="@/assets/curso/tema2/1.png", data-aos="zoom-in")
               .col-lg-6.order-lg-1
                 .bg-color-1.p-5
-                  p.mb-0 Un diseño óptimo no se limita a la integración de contenido visual ni a la aplicación de principios de UX (User Experience).
+                  p.mb-0 Un diseño óptimo no se limita a la integración de contenido visual ni a la aplicación de principios de <em>UX (User Experience)</em>.
     
-        p.mb-5 También depende de la definición previa de objetivos por parte del cliente y de su alineación con la estrategia global de la empresa. En este contexto, herramientas como Google Analytics orientan la toma de decisiones mediante el análisis de métricas y comportamiento de usuarios.
+        p.mb-5 También depende de la definición previa de objetivos por parte del cliente y de su alineación con la estrategia global de la empresa. En este contexto, herramientas como <em>Google Analytics</em> orientan la toma de decisiones mediante el análisis de métricas y comportamiento de usuarios.
 
         .row.justify-content-center
           .col-lg-8
@@ -36,14 +36,14 @@
         separador
         
         #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 2.1 Diseño web
+          h2 2.1 Diseño <em>web</em>
 
     .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema2/3.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Desde el punto de vista técnico, el diseño web se relaciona con el uso de lenguajes de marcado como HTML y XML. Según el World Wide Web Consortium (W3C), el diseñador web estructura las páginas mediante estos lenguajes, mientras que el CSS permite definir la presentación visual y configurar el layout. El desarrollo de un sitio web requiere seguir un proceso estructurado en fases sucesivas. Cuando estas etapas se ejecutan adecuadamente, se favorece la coherencia técnica y estratégica del resultado final.
+        p.mb-0 Desde el punto de vista técnico, el diseño web se relaciona con el uso de lenguajes de marcado como <em>HTML</em> y <em>XML</em>. Según el <em>World Wide Web Consortium (W3C)</em>, el diseñador <em>web</em> estructura las páginas mediante estos lenguajes, mientras que el <em>CSS</em> permite definir la presentación visual y configurar el <em>layout</em>. El desarrollo de un sitio <em>web</em> requiere seguir un proceso estructurado en fases sucesivas. Cuando estas etapas se ejecutan adecuadamente, se favorece la coherencia técnica y estratégica del resultado final.
     
     .row.mb-5.align-items-center.justify-content-center
       .col-md-8.col-lg-4.mb-3.mb-lg-0
@@ -52,15 +52,15 @@
       .col-lg-8
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-9")
           div(titulo="Contacto inicial")
-            p.ms-5.mb-0 Reunión preliminar, definición de objetivos, elaboración del briefing, delimitación del alcance y análisis de benchmarking.
+            p.ms-5.mb-0 Reunión preliminar, definición de objetivos, elaboración del <em>briefing</em>, delimitación del alcance y análisis de <em>benchmarking</em>.
           div(titulo="Planificación")
-            p.ms-5.mb-0 Construcción del mapa de navegación, elaboración del wireframe y definición de la experiencia de usuario (UX).
+            p.ms-5.mb-0 Construcción del mapa de navegación, elaboración del <em>wireframe</em> y definición de la experiencia de usuario <em>(UX)</em>.
           div(titulo="Concepto")
             p.ms-5.mb-0 Desarrollo del esquema general de contenidos y organización temática.
           div(titulo="Diseño")
-            p.ms-5.mb-0 Incorporación de elementos visuales y creación de mockups.
+            p.ms-5.mb-0 Incorporación de elementos visuales y creación de <em>mockups</em>.
           div(titulo="Desarrollo")
-            p.ms-5.mb-0 Definición del CMS, selección de lenguajes de programación, maquetación, optimización de velocidad, compatibilidad móvil, pruebas técnicas e integración de herramientas como Google Analytics y Search Console.
+            p.ms-5.mb-0 Definición del <em>CMS</em>, selección de lenguajes de programación, maquetación, optimización de velocidad, compatibilidad móvil, pruebas técnicas e integración de herramientas como <em>Google Analytics</em> y <em>Search Console</em>.
           div(titulo="Lanzamiento")
             p.ms-5.mb-0 Ajustes finales, publicación e indexación en motores de búsqueda.
     
@@ -69,7 +69,7 @@
     separador
     
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.2 Arquitectura y diagramación web
+      h2 2.2 Arquitectura y diagramación <em>web</em>
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-3.order-lg-2
@@ -77,8 +77,8 @@
           img(src="@/assets/curso/tema2/5.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1
         .bg-color-1.px-5.py-4.mb-3
-          p.mb-0 El diseño y la arquitectura de la información de un sitio web constituyen “el resultado de la actividad de clasificar, describir, estructurar y etiquetar los contenidos del sitio” (Leyva, Alarcón, Barrera & Ortegón, 2017). Esta disciplina permite organizar los contenidos de manera lógica y funcional, asegurando que el sitio responda tanto a las necesidades del negocio como a las expectativas del usuario.
-        p La arquitectura web implica coordinar la integración de múltiples sistemas tecnológicos, entre ellos servidores, bases de datos, redes, componentes de seguridad y mecanismos de respaldo. El arquitecto web diseña esta estructura para garantizar estabilidad, escalabilidad y eficiencia.
+          p.mb-0 El diseño y la arquitectura de la información de un sitio <em>web</em> constituyen “el resultado de la actividad de clasificar, describir, estructurar y etiquetar los contenidos del sitio” (Leyva, Alarcón, Barrera & Ortegón, 2017). Esta disciplina permite organizar los contenidos de manera lógica y funcional, asegurando que el sitio responda tanto a las necesidades del negocio como a las expectativas del usuario.
+        p La arquitectura <em>web</em> implica coordinar la integración de múltiples sistemas tecnológicos, entre ellos servidores, bases de datos, redes, componentes de seguridad y mecanismos de respaldo. El arquitecto <em>web</em> diseña esta estructura para garantizar estabilidad, escalabilidad y eficiencia.
     
     .bg-full-width.bg-fondo-1
       .px-4.px-md-5.py-4
@@ -108,7 +108,7 @@
             .row.justify-content-center.mb-3
               .col-6
                 img(src='@/assets/curso/tema2/9.svg' alt='AvatarTop')
-            h2.text-center HTML
+            h2.text-center <em>HTML</em>
             p.text-center Lenguaje de marcado que estructura el contenido.
 
           .tarjeta.bg-color-white.p-4
@@ -129,19 +129,19 @@
             .row.justify-content-center.mb-3
               .col-6
                 img(src='@/assets/curso/tema2/12.svg' alt='AvatarTop')
-            h2.text-center Interlinking
+            h2.text-center <em>Interlinking</em>
             p.text-center Define la organización de enlaces internos entre páginas.
 
-        p Por su parte, la diagramación web consiste en la representación estructural de los contenidos y sus relaciones. Históricamente, esta representación se desarrolló mediante organigramas, diagramas de flujo de datos y árboles de decisión.
+        p Por su parte, la diagramación <em>web</em> consiste en la representación estructural de los contenidos y sus relaciones. Históricamente, esta representación se desarrolló mediante organigramas, diagramas de flujo de datos y árboles de decisión.
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema2/13.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Con la evolución de las interfaces gráficas de usuario, surgieron herramientas como los guiones de navegación y guiones de interacción, que describen el funcionamiento de los productos digitales. Asimismo, durante el proceso de arquitectura de la información se emplean técnicas como el card sorting, que puede generar dendrogramas y gráficos de escalamiento multidimensional, así como dinámicas de brainstorming para representar estructuras mentales de los usuarios.
+        p.mb-0 Con la evolución de las interfaces gráficas de usuario, surgieron herramientas como los guiones de navegación y guiones de interacción, que describen el funcionamiento de los productos digitales. Asimismo, durante el proceso de arquitectura de la información se emplean técnicas como el <em>card sorting</em>, que puede generar dendrogramas y gráficos de escalamiento multidimensional, así como dinámicas de <em>brainstorming</em> para representar estructuras mentales de los usuarios.
     
-    p.mb-5 En conclusión, la creación web integra diseño, arquitectura, estrategia y tecnología. La adecuada organización de contenidos y sistemas garantiza que el sitio no solo cumpla una función estética, sino que responda de manera eficiente a objetivos empresariales y necesidades de los usuarios.
+    p.mb-5 En conclusión, la creación <em>web</em> integra diseño, arquitectura, estrategia y tecnología. La adecuada organización de contenidos y sistemas garantiza que el sitio no solo cumpla una función estética, sino que responda de manera eficiente a objetivos empresariales y necesidades de los usuarios.
 
     .row.justify-content-center
       .col-lg-10
@@ -152,15 +152,15 @@
                 img(src='@/assets/curso/tema2/14.png', alt='')
             .col-lg.order-lg-1
               .p-4
-                p.mb-0(data-aos="fade-up") Los autores angloparlantes pioneros en diseño y representación de software dividen los diagramas de arquitectura de información en dos grandes tipos: Blueprints y Wireframes (Morville & Rosenfeld, 1998). En algunos contextos, el término Blueprint se sustituye por Architecture Map, que significa mapa de arquitectura.
+                p.mb-0(data-aos="fade-up") Los autores angloparlantes pioneros en diseño y representación de <em>software</em> dividen los diagramas de arquitectura de información en dos grandes tipos: <em>Blueprints</em> y <em>Wireframes</em> (<em>Morville & Rosenfeld, 1998</em>). En algunos contextos, el término <em>Blueprint</em> se sustituye por <em>Architecture Map</em>, que significa mapa de arquitectura.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto <em>Blueprints</em>
 
-    p Los Blueprints son diagramas que representan las principales áreas de organización y rotulado del producto digital (Rosenfeld & Morville, 1998). Se enfocan en los aspectos estructurales y de funcionamiento general.
-    p.mb-5 Generalmente se elaboran mediante textos, cajas y flechas. Su estructura parte de lo general a lo particular y de lo abstracto a lo concreto. Su función consiste en explicitar de manera iterativa las decisiones de diseño, con el propósito de comunicarlas al equipo de desarrollo o al cliente final. Christina Wodtke (2002) conceptualiza el Blueprint como: “Un plano de diseño es justamente una buena idea llevada a la realidad a través de la escritura”.
+    p Los <em>Blueprints</em> son diagramas que representan las principales áreas de organización y rotulado del producto digital (Rosenfeld & Morville, 1998). Se enfocan en los aspectos estructurales y de funcionamiento general.
+    p.mb-5 Generalmente se elaboran mediante textos, cajas y flechas. Su estructura parte de lo general a lo particular y de lo abstracto a lo concreto. Su función consiste en explicitar de manera iterativa las decisiones de diseño, con el propósito de comunicarlas al equipo de desarrollo o al cliente final. Christina Wodtke (2002) conceptualiza el <em>Blueprint</em> como: “Un plano de diseño es justamente una buena idea llevada a la realidad a través de la escritura”.
 
     .row.justify-content-center.mb-5
       .col-lg-3.mb-3.mb-lg-0
@@ -185,7 +185,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto Maquetas y niveles de prototipado
 
-    p.mb-5 En el proceso de diseño web, las maquetas constituyen representaciones progresivas del producto digital. Estas pueden clasificarse según su nivel de fidelidad.
+    p.mb-5 En el proceso de diseño <em>web</em>, las maquetas constituyen representaciones progresivas del producto digital. Estas pueden clasificarse según su nivel de fidelidad.
     
     .row.justify-content-center
       .col-lg-10
@@ -217,46 +217,46 @@
               figure
                 img(src='@/assets/curso/tema2/16.png', alt='Imagen de acompañamiento')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
-              h4 Wireframe
-              p.mb-0 Boceto preliminar del sitio web que puede elaborarse con lápiz y papel o mediante herramientas digitales. Representa, a través de recuadros, líneas y trazos, la estructura del contenido, la interfaz, el sistema de navegación y el funcionamiento general de la página. Se centra en la organización y jerarquía de los elementos, sin incluir aún detalles gráficos definitivos.
+              h4 <em>Wireframe</em>
+              p.mb-0 Boceto preliminar del sitio <em>web</em> que puede elaborarse con lápiz y papel o mediante herramientas digitales. Representa, a través de recuadros, líneas y trazos, la estructura del contenido, la interfaz, el sistema de navegación y el funcionamiento general de la página. Se centra en la organización y jerarquía de los elementos, sin incluir aún detalles gráficos definitivos.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
                 img(src='@/assets/curso/tema2/17.png', alt='Imagen de acompañamiento')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
-              h4 Mockup
-              p.mb-0 Fase posterior al wireframe. Presenta una versión más detallada del diseño en la que se definen dimensiones, distribución de elementos, tipografía, imágenes, iconos y logotipos. Incorpora componentes gráficos que permiten aproximarse con mayor precisión al resultado final.
+              h4 <em>Mockup</em>
+              p.mb-0 Fase posterior al <em>wireframe</em>. Presenta una versión más detallada del diseño en la que se definen dimensiones, distribución de elementos, tipografía, imágenes, iconos y logotipos. Incorpora componentes gráficos que permiten aproximarse con mayor precisión al resultado final.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
                 img(src='@/assets/curso/tema2/18.png', alt='Imagen de acompañamiento')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
-              h4 Prototipo dinámico
-              p.mb-0 Representación de alta fidelidad correspondiente a la página web en formato HTML con interacción funcional. Permite evaluar el comportamiento, la navegación y la respuesta del sistema antes de su lanzamiento definitivo.
+              h4 <em>Prototipo dinámico</em>
+              p.mb-0 Representación de alta fidelidad correspondiente a la página <em>web</em> en formato <em>HTML</em> con interacción funcional. Permite evaluar el comportamiento, la navegación y la respuesta del sistema antes de su lanzamiento definitivo.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
                 img(src='@/assets/curso/tema2/19.png', alt='Imagen de acompañamiento')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
-              h4 Frameworks
+              h4 <em>Frameworks</em>
               p.mb-0 Estructura base utilizada como punto de partida para desarrollar proyectos con objetivos específicos. Funciona como plantilla o esquema conceptual que simplifica el proceso de desarrollo al ofrecer componentes predefinidos adaptables a las necesidades del proyecto.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
                 img(src='@/assets/curso/tema2/20.png', alt='Imagen de acompañamiento')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
-              h4 Frontend
-              p Parte de la aplicación que interactúa directamente con el usuario. Corresponde al lado del cliente y define la presentación de los elementos y el comportamiento de la interacción. Incluye tipografías, colores, adaptación a distintas pantallas mediante diseño adaptable (Responsive Web Design o RWD), efectos de interacción y desplazamientos.
+              h4 <em>Frontend</em>
+              p Parte de la aplicación que interactúa directamente con el usuario. Corresponde al lado del cliente y define la presentación de los elementos y el comportamiento de la interacción. Incluye tipografías, colores, adaptación a distintas pantallas mediante diseño adaptable <em>(Responsive Web Design o RWD)</em>, efectos de interacción y desplazamientos.
 
-              h4 Lenguajes del frontend
-              p.mb-0 HTML5 (estructura del contenido), CSS3 (estilización y diseño visual), JavaScript (interactividad y comportamiento dinámico), jQuery (biblioteca que facilita el uso de JavaScript) y Ajax (comunicación asíncrona con el servidor sin recargar la página).
+              h4 Lenguajes del <em>frontend</em>
+              p.mb-0 <em>HTML5</em> (estructura del contenido), <em>CSS3</em> (estilización y diseño visual), <em>JavaScript</em> (interactividad y comportamiento dinámico), <em>jQuery</em> (biblioteca que facilita el uso de JavaScript) y <em>Ajax</em> (comunicación asíncrona con el servidor sin recargar la página).
 
     separador
     
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.3 Software para hacer diagramas
+      h2 2.3 <em>Software</em> para hacer diagramas
     
-    p.mb-5 El diseño de diagramas puede realizarse mediante plataformas o herramientas digitales especializadas. Para facilitar su comprensión, estas aplicaciones pueden clasificarse en dos grupos: aquellas creadas específicamente para diagramación y aquellas que, aunque fueron concebidas con otros fines, permiten desarrollar diagramas gracias a sus capacidades gráficas avanzadas. A continuación, se presentan programas diseñados originalmente para la elaboración de diagramas:
+    p.mb-5 El diseño de diagramas puede realizarse mediante plataformas o herramientas digitales specializadas. Para facilitar su comprensión, estas aplicaciones pueden clasificarse en dos grupos: aquellas creadas específicamente para diagramación y aquellas que, aunque fueron concebidas con otros fines, permiten desarrollar diagramas gracias a sus capacidades gráficas avanzadas. A continuación, se presentan programas diseñados originalmente para la elaboración de diagramas:
 
     .row.mb-5.align-items-center.justify-content-center
       .col-md-8.col-lg-4.mb-3.mb-lg-0
@@ -264,18 +264,18 @@
           img(src="@/assets/curso/tema2/21.png", data-aos="zoom-in")
       .col-lg-8
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-9")
-          div(titulo="SmartDraw")
+          div(titulo="<em>SmartDraw</em>")
             p.ms-5.mb-0 Herramienta especializada en diagramas, organigramas y mapas conceptuales. Ofrece plantillas prediseñadas y automatización de estructuras.
-          div(titulo="Microsoft Visio")
+          div(titulo="<em>Microsoft Visio</em>")
             p.ms-5.mb-0 Aplicación profesional para la creación de diagramas técnicos, flujogramas y modelado de procesos empresariales.
-          div(titulo="iGrafx FlowCharter")
+          div(titulo="<em>iGrafx FlowCharter</em>")
             p.ms-5.mb-0 Orientado a la elaboración de diagramas de flujo y modelado de procesos organizacionales.
-          div(titulo="MindManager")
+          div(titulo="<em>MindManager</em>")
             p.ms-5.mb-0 Programa enfocado en mapas mentales y organización visual de información compleja.
-          div(titulo="FreeMind")
+          div(titulo="<em>FreeMind</em>")
             p.ms-5.mb-0 Aplicación de código abierto para la creación de mapas mentales y esquemas jerárquicos.
-          div(titulo="OmniGraffle")
-            p.ms-5.mb-0 Programa para macOS especializado en diagramas, esquemas técnicos y estructuras visuales.
+          div(titulo="<em>OmniGraffle</em>")
+            p.ms-5.mb-0 Programa para <em>macOS</em> especializado en diagramas, esquemas técnicos y estructuras visuales.
     
     p.mb-5 Estas herramientas permiten representar arquitecturas de información, flujos de navegación, estructuras organizativas y procesos técnicos mediante recursos gráficos estructurados.
 
