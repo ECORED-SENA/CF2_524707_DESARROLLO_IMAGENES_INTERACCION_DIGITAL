@@ -291,7 +291,7 @@ export default {
             {
               id: 'a',
               texto:
-                'Manipulación mediante software para reforzar mensajes visuales.',
+                'Manipulación mediante <em>software</em> para reforzar mensajes visuales.',
               esCorrecta: true,
             },
             {
@@ -528,7 +528,7 @@ export default {
         },
         {
           id: 17,
-          texto: '¿Qué es un wireframe en diseño web?',
+          texto: '¿Qué es un <em>wireframe</em> en diseño web?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [

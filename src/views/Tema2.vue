@@ -363,9 +363,9 @@
     separador
     
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.5 Lenguajes de programación para frontend
+      h2 2.5 Lenguajes de programación para <em>frontend</em>
 
-    p.mb-5 Para introducir los lenguajes de programación más utilizados en el diseño web, es necesario definir primero el frontend como parte fundamental del desarrollo web.
+    p.mb-5 Para introducir los lenguajes de programación más utilizados en el diseño <em>web</em>, es necesario definir primero el <em>frontend</em> como parte fundamental del desarrollo <em>web</em>.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -377,9 +377,9 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/28.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El frontend hace referencia a la capa de presentación de las aplicaciones, ya que define cómo se presentan los elementos y cómo se comporta la interacción con el usuario. Corresponde a la parte de una aplicación que interactúa directamente con el usuario; es decir, todo lo que aparece en pantalla al acceder a un sitio web o aplicación: tipografías, colores, botones, menús, adaptación a distintas pantallas mediante RWD (Responsive Web Design), efectos de interacción con ratón y teclado, desplazamientos y demás elementos que configuran la experiencia del usuario.
+        p.mb-0 El <em>frontend</em> hace referencia a la capa de presentación de las aplicaciones, ya que define cómo se presentan los elementos y cómo se comporta la interacción con el usuario. Corresponde a la parte de una aplicación que interactúa directamente con el usuario; es decir, todo lo que aparece en pantalla al acceder a un sitio <em>web</em> o aplicación: tipografías, colores, botones, menús, adaptación a distintas pantallas mediante <em>RWD (Responsive Web Design)</em>, efectos de interacción con ratón y teclado, desplazamientos y demás elementos que configuran la experiencia del usuario.
     
-    p.mb-5 El frontend no gestiona directamente bases de datos ni servidores (funciones propias del back-end), pero sí aborda aspectos como la usabilidad, los efectos visuales y la velocidad de carga. Un desarrollador frontend debe dominar, al menos, los siguientes lenguajes y tecnologías:
+    p.mb-5 El <em>frontend</em> no gestiona directamente bases de datos ni servidores (funciones propias del <em>back-end</em>), pero sí aborda aspectos como la usabilidad, los efectos visuales y la velocidad de carga. Un desarrollador <em>frontend</em> debe dominar, al menos, los siguientes lenguajes y tecnologías:
 
     .bg-full-width.bg-fondo-1
       .px-4.px-md-5.py-4
@@ -393,43 +393,43 @@
                 .row.justify-content-center.mb-5
                   .col-6
                     img(src='@/assets/curso/tema2/30.svg' alt='AvatarTop')
-                h2.text-center HTML5
+                h2.text-center <em>HTML5</em>
                 p.text-center Estructura y organización del contenido.
 
               .tarjeta.bg-color-white.p-4
                 .row.justify-content-center.mb-5
                   .col-6
                     img(src='@/assets/curso/tema2/31.svg' alt='AvatarTop')
-                h2.text-center CSS3
+                h2.text-center <em>CSS3</em>
                 p.text-center Definición de estilos y presentación visual.
 
               .tarjeta.bg-color-white.p-4
                 .row.justify-content-center.mb-5
                   .col-6
                     img(src='@/assets/curso/tema2/32.svg' alt='AvatarTop')
-                h2.text-center JavaScript
+                h2.text-center <em>JavaScript</em>
                 p.text-center Interactividad y comportamiento dinámico.
               
               .tarjeta.bg-color-white.p-4
                 .row.justify-content-center.mb-5
                   .col-6
                     img(src='@/assets/curso/tema2/33.png' alt='AvatarTop')
-                h2.text-center jQuery
-                p.text-center Biblioteca que simplifica el uso de JavaScript.
+                h2.text-center <em>jQuery</em>
+                p.text-center Biblioteca que simplifica el uso de <em>JavaScript</em>.
 
               .tarjeta.bg-color-white.p-4
                 .row.justify-content-center.mb-5
                   .col-6
                     img(src='@/assets/curso/tema2/34.png' alt='AvatarTop')
-                h2.text-center Ajax
+                h2.text-center <em>Ajax</em>
                 p.text-center Comunicación asíncrónica con el servidor sin recargar la página.
 
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
-            h3.titulo-con-imagen__texto HTML
+            h3.titulo-con-imagen__texto <em>HTML</em>
 
-    p.mb-5 HTML corresponde a las siglas de Hyper Text Markup Language (Lenguaje de Marcas de Hipertexto). Es el principal lenguaje de marcación utilizado para el desarrollo de páginas web. Se trata de un lenguaje que utilizan las aplicaciones para representar documentos digitales, como páginas web, que pueden transmitirse a través de internet. Los navegadores procesan e interpretan los documentos descritos en HTML mediante analizadores específicos.
+    p.mb-5 <em>HTML</em> corresponde a las siglas de <em>Hyper Text Markup Language</em> (Lenguaje de Marcas de Hipertexto). Es el principal lenguaje de marcación utilizado para el desarrollo de páginas <em>web</em>. Se trata de un lenguaje que utilizan las aplicaciones para representar documentos digitales, como páginas <em>web</em>, que pueden transmitirse a través de internet. Los navegadores procesan e interpretan los documentos descritos en <em>HTML</em> mediante analizadores específicos.
 
     .bg-full-width.bg-color-3
       .px-4.px-md-5.py-4
@@ -442,20 +442,20 @@
                     img(src='@/assets/curso/tema2/35.png', alt='')
                 .col-lg.order-lg-1
                   .p-4
-                    p(data-aos="fade-up") El lenguaje HTML se compone de etiquetas, delimitadas por los símbolos < y >, con la siguiente estructura:
+                    p(data-aos="fade-up") El lenguaje <em>HTML</em> se compone de etiquetas, delimitadas por los símbolos < y >, con la siguiente estructura:
                     .bg-color-black.p-3.tarjeta.mb-2.d-inline-block
                       span.bg-color-13 &lt;etiqueta&gt;
                       span.texto-blanco contenido
                       span.bg-color-13 &lt;/etiqueta&gt;
                     p Estas etiquetas describen los elementos que se desean estructurar dentro de la página. Por ejemplo:
                     .bg-color-black.p-3.tarjeta.mb-2
-                      span.bg-color-13 &lt;title&gt;
+                      span.bg-color-13 &lt;<em>title</em>&gt;
                       span.texto-blanco Internet básico, email, descargas y compras en línea
-                      span.bg-color-13 &lt;/title&gt;
-                    p.mb-0 En este caso, la etiqueta &lt;title&gt; indica el título del documento web.
+                      span.bg-color-13 &lt;<em>/title</em>&gt;
+                    p.mb-0 En este caso, la etiqueta &lt;<em>title</em>&gt; indica el título del documento web.
 
-        p.mb-5 HTML5 también se emplea como término que agrupa tecnologías modernas de desarrollo web: HTML5, CSS3 y nuevas capacidades de JavaScript. HTML4 y HTML5 mantienen compatibilidad estructural.
-    
+        p.mb-5 <em>HTML5</em> también se emplea como término que agrupa tecnologías modernas de desarrollo <em>web: HTML5</em>, <em>CSS3</em> y nuevas capacidades de <em>JavaScript</em>. <em>HTML4</em> y <em>HTML5</em> mantienen compatibilidad estructural.
+
         .row.justify-content-center.align-items-stretch.mb-5
           .col-lg-4.col-xl-2.mb-3.mb-xl-0
             .bg-color-12.h-100.text-center
@@ -492,7 +492,7 @@
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
             h3.titulo-con-imagen__texto CSS
         
-    p.mb-5 CSS corresponde a Cascading Style Sheets (Hojas de Estilo en Cascada). Su función es controlar la apariencia visual del sitio web y permitir una presentación coherente y diferenciada. Las hojas de estilo se superponen siguiendo un modelo jerárquico, aplicando reglas en función de factores como el tamaño y la resolución de la pantalla del dispositivo. Desde su aparición en 1993, HTML ha evolucionado hasta consolidarse como estándar en su versión HTML5. Esta evolución ha sido posible gracias a la integración con CSS, que permite incorporar funcionalidades avanzadas como:
+    p.mb-5 CSS corresponde a <em>Cascading Style Sheets </em>(Hojas de Estilo en Cascada). Su función es controlar la apariencia visual del sitio <em>web</em> y permitir una presentación coherente y diferenciada. Las hojas de estilo se superponen siguiendo un modelo jerárquico, aplicando reglas en función de factores como el tamaño y la resolución de la pantalla del dispositivo. Desde su aparición en 1993, HTML ha evolucionado hasta consolidarse como estándar en su versión HTML5. Esta evolución ha sido posible gracias a la integración con CSS, que permite incorporar funcionalidades avanzadas como:
 
     .row.justify-content-center
       .col-lg-8
@@ -506,16 +506,16 @@
                 ul.lista-ul--color.ms-3
                   li.mb-3.d-flex
                     i.fas.fa-circle-check.bg-color-11
-                    p.mb-0 Audio
+                    p.mb-0 Audio.
                   li.mb-3.d-flex
                     i.fas.fa-circle-check.bg-color-11
-                    p.mb-0 Video
+                    p.mb-0 Video.
                   li.mb-3.d-flex
                     i.fas.fa-circle-check.bg-color-11
-                    p.mb-0 Gráficos SVG
+                    p.mb-0 Gráficos SVG.
                   li.mb-3.d-flex
                     i.fas.fa-circle-check.bg-color-11
-                    p.mb-0 Gráficos SVG
+                    p.mb-0 Adaptación a distintos dispositivos.
     
     p El código CSS organiza la presentación y define cómo se visualizan los elementos de un documento HTML, separando estructura y diseño para facilitar mantenimiento, optimización y coherencia visual.
 
@@ -532,7 +532,7 @@
               img(src="@/assets/curso/tema2/37.png", data-aos="zoom-in")
           .col-lg-8.order-lg-1
             .bg-color-1.p-5
-              p.mb-0 La estructuración técnica de un sitio web constituye un proceso estratégico que integra aspectos conceptuales, temáticos y técnicos. No se trata únicamente de definir una arquitectura organizada, sino de planificar cómo se presentará la temática, cómo se distribuirán los contenidos y de qué manera se garantizará una experiencia de usuario coherente. Sin una adecuada planificación conceptual resulta imposible consolidar posteriormente una estructura técnica eficiente. 
+              p.mb-0 La estructuración técnica de un sitio <em>web</em> constituye un proceso estratégico que integra aspectos conceptuales, temáticos y técnicos. No se trata únicamente de definir una arquitectura organizada, sino de planificar cómo se presentará la temática, cómo se distribuirán los contenidos y de qué manera se garantizará una experiencia de usuario coherente. Sin una adecuada planificación conceptual resulta imposible consolidar posteriormente una estructura técnica eficiente. 
         
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
@@ -552,8 +552,8 @@
               img(src="@/assets/curso/tema2/38.png", data-aos="zoom-in")
           .col-lg-8.order-lg-1
             .bg-color-12.p-5.mb-3
-              p.mb-0 La creación de un sitio web implica la generación de diferentes URL o direcciones internas que parten de un dominio común. Estas direcciones deben construirse con palabras clave indicativas que describan el contenido de cada página.
-            p Las URL amigables para SEO (Search Engine Optimization) permiten que los motores de búsqueda comprendan mejor la estructura del sitio. Lo primero que analiza Google al rastrear una página es su URL; por ello, esta debe ser clara, descriptiva y coherente con la temática del contenido.
+              p.mb-0 La creación de un sitio <em>web</em> implica la generación de diferentes URL o direcciones internas que parten de un dominio común. Estas direcciones deben construirse con palabras clave indicativas que describan el contenido de cada página.
+              p Las URL amigables para SEO <em>(Search Engine Optimization)</em> permiten que los motores de búsqueda comprendan mejor la estructura del sitio. Lo primero que analiza Google al rastrear una página es su URL; por ello, esta debe ser clara, descriptiva y coherente con la temática del contenido.
     
     .row.mb-5.justify-content-center
       .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-up")
@@ -598,7 +598,7 @@
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
-        h3.titulo-con-imagen__texto Interlinking y mejora de la navegabilidad
+        h3.titulo-con-imagen__texto <em>Interlinking</em> y mejora de la navegabilidad
     
     p.mb-5 La estructura técnica también exige conectar todas las páginas entre sí para mejorar la navegabilidad y la usabilidad. No se debe depender únicamente del menú principal; es necesario incorporar enlaces internos estratégicos dentro del contenido. Estos enlaces internos cumplen dos funciones principales:
 
@@ -625,7 +625,7 @@
               img(src='@/assets/curso/tema2/43.png', alt='Texto que describa la imagen')
           
         h2.mb-5 Rastreo por motores de búsqueda
-        p Permiten que Google indexe las páginas de manera más eficiente, mejorando el posicionamiento.
+        p Permiten que <em>Google</em> indexe las páginas de manera más eficiente, mejorando el posicionamiento.
 
     p Una estructura bien conectada optimiza la experiencia del usuario y facilita el trabajo de indexación de los motores de búsqueda. Por ello, la usabilidad y la estructura técnica se encuentran estrechamente relacionadas dentro del diseño web.
 
@@ -690,9 +690,9 @@
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
-            h3.titulo-con-imagen__texto La web responsive
+            h3.titulo-con-imagen__texto La <em>web responsive</em>
         
-        p.mb-5 Además de la correcta adaptación visual y navegacional, los sitios web deben responder a exigencias externas relacionadas con servidores, navegadores y motores de búsqueda.
+        p.mb-5 Además de la correcta adaptación visual y navegacional, los sitios <em>web</em> deben responder a exigencias externas relacionadas con servidores, navegadores y motores de búsqueda.
 
         .row.justify-content-center
           .col-lg-10.col-xl-8
@@ -703,16 +703,16 @@
                     img(src='@/assets/curso/tema2/48.svg', alt='')
                 .col-lg
                   .p-3
-                    p.mb-0 En este contexto, Google ha actualizado sus criterios de clasificación para priorizar sitios optimizados para dispositivos móviles. Si una página no es responsive, puede aparecer en posiciones inferiores en las SERP (Search Engine Results Page) o incluso quedar excluida de resultados móviles.
+                    p.mb-0 En este contexto, Google ha actualizado sus criterios de clasificación para priorizar sitios optimizados para dispositivos móviles. Si una página no es <em>responsive</em>, puede aparecer en posiciones inferiores en las <em>SERP (Search Engine Results Page)</em> o incluso quedar excluida de resultados móviles.
     
     p.mb-5 La expansión del uso de teléfonos inteligentes transformó la manera en que los usuarios acceden a internet. Actualmente, la conexión a la red se produce en cualquier momento y lugar, lo que amplía el alcance potencial de los sitios web optimizados para móviles. Según Shum (2021), “En la actualidad el 70 % del tráfico de internet proviene de teléfonos móviles”.
 
      .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
-        h3.titulo-con-imagen__texto Ventajas de tener un sitio web responsive
+        h3.titulo-con-imagen__texto Ventajas de tener un sitio <em>web responsive</em>
     
-    p.mb-5 La incorporación del diseño responsive impacta directamente en las estrategias de marketing digital y en los resultados obtenidos.
+    p.mb-5 La incorporación del diseño <em>responsive</em> impacta directamente en las estrategias de <em>marketing</em> digital y en los resultados obtenidos.
 
     .row.mb-5.align-items-center.justify-content-center
       .col-md-8.col-lg-4.mb-3.mb-lg-0
@@ -729,7 +729,7 @@
           div(titulo="Mayor alcance de audiencia")
             p.ms-5.mb-0 Permite llegar a usuarios que acceden desde múltiples dispositivos, ampliando la cobertura digital.
     
-    p En conclusión, el diseño web responsive constituye una estrategia técnica y comunicativa indispensable en el entorno digital actual. Garantiza adaptabilidad, mejora el posicionamiento en buscadores y optimiza la experiencia del usuario en un contexto donde el acceso móvil predomina.
+    p En conclusión, el diseño <em>web responsive</em> constituye una estrategia técnica y comunicativa indispensable en el entorno digital actual. Garantiza adaptabilidad, mejora el posicionamiento en buscadores y optimiza la experiencia del usuario en un contexto donde el acceso móvil predomina.
 
 </template>
 

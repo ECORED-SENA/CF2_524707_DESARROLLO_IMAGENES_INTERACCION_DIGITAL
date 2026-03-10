@@ -127,7 +127,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/524707_CF2_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -157,7 +157,7 @@ export default {
     {
       termino: 'Declaración CSS',
       significado:
-        'es la suma de la propiedad más el valor y se encuentra siempre entre dos corchetes. si el selector es la parte del código que indica en qué parte se ha de aplicar la regla CSS, la declaración explica en qué consisten las instrucciones.',
+        'es la suma de la propiedad más el valor y se encuentra siempre entre dos corchetes. Si el selector es la parte del código que indica en qué parte se ha de aplicar la regla CSS, la declaración explica en qué consisten las instrucciones.',
     },
     {
       termino: 'Etiqueta',
@@ -176,12 +176,12 @@ export default {
     {
       termino: 'HTML',
       significado:
-        '<em>hypertext markup language</em> o lenguaje de marcado de hipertextos. destinado a simplificar la escritura de documentos estándar. es la base estructural en la que están diseñadas las páginas de la World Wide Web.',
+        '<em>hypertext markup language</em> o lenguaje de marcado de hipertextos. Destinado a simplificar la escritura de documentos estándar. Es la base estructural en la que están diseñadas las páginas de la <em>World Wide Web</em>.',
     },
     {
       termino: 'HTTP',
       significado:
-        '<em>hypertext transfer protocol</em> o protocolo de transferencia de hipertexto. es el mecanismo de intercambio de información que constituye la base funcional de la World Wide Web.',
+        '<em>hypertext transfer protocol</em> o protocolo de transferencia de hipertexto. Es el mecanismo de intercambio de información que constituye la base funcional de la <em>World Wide Web</em>.',
     },
     {
       termino: 'Lenguaje de programación',
@@ -201,7 +201,7 @@ export default {
     {
       termino: 'WWW',
       significado:
-        'también conocido simplemente como web, es uno de los servicios más populares de internet. combina texto con gráficos, imágenes, animaciones e incluso música, enlazados entre sí de tal manera que facilita la navegación por la información dispersa en todo internet.',
+        'también conocido simplemente como web, es uno de los servicios más populares de internet. Combina texto con gráficos, imágenes, animaciones e incluso música, enlazados entre sí de tal manera que facilita la navegación por la información dispersa en todo internet.',
     },
   ],
   referencias: [
