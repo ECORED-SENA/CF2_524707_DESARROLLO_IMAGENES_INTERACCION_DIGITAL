@@ -283,7 +283,7 @@ export default {
       referencia:
         'Viveros, M. A. T. (2005). Introducción a la creación de imágenes digitales para multimedia interactivo.',
       link:
-        'https://programas.cuaed.unam.mx/repositorio/moodle/pluginfile.php/1161/mod_resource/content/1/contenido/index.html',
+        'https://repositorio-uapa.cuaed.unam.mx/repositorio/moodle/pluginfile.php/2608/mod_resource/content/1/UAPA-Imagenes-Digitales-Multimedia-Interactivo/index.html',
     },
   ],
   creditos: [
