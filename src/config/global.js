@@ -127,7 +127,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/524707_CF2_DU.pdf',
+        download: 'downloads/524707_CF02_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -206,82 +206,77 @@ export default {
   ],
   referencias: [
     {
-      referencia:
-        'Blázquez Nieto, A. (2019). Nuevas tecnologías aplicadas a la vida: smartphone, tablet e internet.',
-      link:
-        'https://docplayer.es/78951030-Nuevas-tecnologias-aplicadas-a-la-vida-smartphone-tablet-e-internet.html',
-    },
-    {
-      referencia: 'Equipo 09, EvntosSv.com. (2019). Maquetación web.',
+      referencia: 'Equipo 09, EvntosSv.com. (2019). <i>Maquetación web</i>.',
       link: 'https://evntossv.neocities.org/maquetacion.html',
     },
     {
       referencia:
-        'Faulker, A., y Gyncild, B. (2015). Adobe Photoshop CC 2014. Anaya Multimedia.',
+        'Faulker, A., y Gyncild, B. (2015). <i>Adobe Photoshop CC 2014</i>. Anaya Multimedia.',
       link: '',
     },
     {
-      referencia: 'Fernández, A. (2005). Imagen digital.',
+      referencia: 'Fernández, A. (2005). <i>Imagen digital</i>.',
       link: '',
     },
     {
-      referencia: 'Garrett, J. J. (2002). IA/recon (versión en español).',
+      referencia:
+        'Garrett, J. J. (2002). <i>IA/recon (versión en español)</i>.',
       link: 'http://www.jjg.net/ia/recon/spanish.html',
     },
     {
       referencia:
-        'Leyva, Alarcón, Barrera, y Ortegón. (2016). Exploración del diseño y arquitectura web: aplicación a páginas electrónicas del sector bancario desde la perspectiva del usuario. Revista Escuela de Administración de Negocios, (80), 41-57.',
+        'Leyva, Alarcón, Barrera, y Ortegón. (2016). <i>Exploración del diseño y arquitectura web: aplicación a páginas electrónicas del sector bancario desde la perspectiva del usuario</i>. Revista Escuela de Administración de Negocios, (80), 41-57.',
       link: '',
     },
     {
       referencia:
-        'Cortés, M. L. (Ed.). (2000). Luces, cámara, acción: textos de cine y televisión. Editorial de la Universidad de Costa Rica.',
+        'Cortés, M. L. (Ed.). (2000). <i>Luces, cámara, acción: textos de cine y televisión</i>. Editorial de la Universidad de Costa Rica.',
       link: '',
     },
     {
       referencia:
-        'Lozano Botache, J. P. (2013). Narraciones cinematográficas: potencialidades pedagógicas y de investigación cualitativa, desde el cine colombiano [Tesis doctoral, Universidad del Cauca]. Repositorio Unicauca.',
+        'Lozano Botache, J. P. (2013). <i>Narraciones cinematográficas: potencialidades pedagógicas y de investigación cualitativa, desde el cine colombiano [Tesis doctoral, Universidad del Cauca]</i>. Repositorio Unicauca.',
       link: '',
     },
     {
       referencia:
-        'Montero Miguel, R. (2014). Administración de servicios de transferencia de archivos y contenidos multimedia. Ra-Ma.',
+        'Montero Miguel, R. (2014). <i>Administración de servicios de transferencia de archivos y contenidos multimedia</i>. Ra-Ma.',
       link: '',
     },
     {
       referencia:
-        'Morville, P., y Rosenfeld, L. (1998). Information architecture for the World Wide Web. O’Reilly.',
+        'Morville, P., y Rosenfeld, L. (1998). <i>Information architecture for the World Wide Web</i>. O’Reilly.',
       link: '',
     },
     {
       referencia:
-        'Ordóñez, C. A. (2005). Formatos de imagen digital. Revista Digital Universitaria, 5(7), 1-10.',
+        'Ordóñez, C. A. (2005). <i>Formatos de imagen digital</i>. Revista Digital Universitaria, 5(7), 1-10.',
       link: 'http://www.revista.unam.mx/vol.6/num5/art50/may_art50.pdf',
     },
     {
       referencia:
-        'R. M. (2014, julio 2). Los modos de color en diseño gráfico.',
+        'R. M. (2014, julio 2). <i>Los modos de color en diseño gráfico</i>.',
       link:
         'https://blog.agencialanave.com/los-modos-de-color-en-diseno-grafico/',
     },
     {
       referencia:
-        'Racionero, A. (2008). El lenguaje cinematográfico. Editorial UOC.',
+        'Racionero, A. (2008). <i>El lenguaje cinematográfico</i>. Editorial UOC.',
       link: '',
     },
     {
       referencia:
-        'Real Academia Española. (s. f.). Diccionario de la lengua española (23.ª ed.).',
+        'Real Academia Española. (s. f.). <i>Diccionario de la lengua española (23.ª ed.)</i>.',
       link: 'https://dle.rae.es',
     },
     {
       referencia:
-        'Shum, Y. M. (2021). Situación global mobile 2020: 5.190 millones de usuarios únicos.',
+        'Shum, Y. M. (2021). <i>Situación global mobile 2020: 5.190 millones de usuarios únicos</i>.',
       link: 'https://yiminshum.com/mobile-movil-app-2020/',
     },
     {
       referencia:
-        'Viveros, M. A. T. (2005). Introducción a la creación de imágenes digitales para multimedia interactivo.',
+        'Viveros, M. A. T. (2005). <i>Introducción a la creación de imágenes digitales para multimedia interactivo</i>.',
       link:
         'https://repositorio-uapa.cuaed.unam.mx/repositorio/moodle/pluginfile.php/2608/mod_resource/content/1/UAPA-Imagenes-Digitales-Multimedia-Interactivo/index.html',
     },
@@ -292,12 +287,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Olga Constanza Bermúdez',
-          cargo: 'Responsable de Línea de Producción Huila',
+          cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
       ],
@@ -348,6 +343,12 @@ export default {
         },
         {
           nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
           cargo: 'Animador y productor multimedia',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',

@@ -16,7 +16,7 @@
           .col-lg-9.order-lg-1
             p El concepto de composición gráfica se refiere a la organización de elementos dentro del espacio visual con el propósito de construir una imagen que transmita una idea de manera sencilla y directa a un público objetivo. Esta premisa mantiene su validez en la creación y edición de imágenes fijas; sin embargo, adquiere un sentido distinto cuando se trata de imágenes en movimiento, donde intervienen factores narrativos y temporales.
             .bg-color-1.px-5.py-4
-              p.mb-0 En el ámbito audiovisual, suele emplearse indistintamente los términos edición y montaje. No obstante, desde la teoría del lenguaje audiovisual se establece una diferencia conceptual relevante. La palabra montaje, de origen francés, alude a montar o superponer elementos; sin embargo, el montaje se vincula con el proceso narrativo de articulación de significados, mientras que la edición corresponde principalmente a un procedimiento técnico.
+              p.mb-0 En el ámbito audiovisual, suelen emplearse indistintamente los términos edición y montaje. No obstante, desde la teoría del lenguaje audiovisual se establece una diferencia conceptual relevante. La palabra montaje, de origen francés, alude a montar o superponer elementos; sin embargo, el montaje se vincula con el proceso narrativo de articulación de significados, mientras que la edición corresponde principalmente a un procedimiento técnico.
 
         p.mb-5 El montaje audiovisual constituye, por tanto, la fase técnica y narrativa final del producto audiovisual. Aunque se concreta en la etapa de posproducción, su sentido queda previamente definido desde la elaboración del guion, ya que responde a las intenciones del emisor y a las capacidades interpretativas del receptor.
 
@@ -39,14 +39,14 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/3.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/3.png', alt='')
             .col-lg-7.mb-4.mb-md-0.order-lg-1
               h4 Montaje
               p.mb-0 Conjunto de relaciones espacio-temporales creadas mediante la combinación y duración de fragmentos, que permiten articular un mensaje audiovisual con fluidez, ritmo, coherencia y expresión propia, en función de las intenciones del emisor y las expectativas del receptor.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/4.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/4.png', alt='')
             .col-lg-7.mb-4.mb-md-0.order-lg-1
               h4 Edición
               p.mb-0 Proceso técnico que permite manipular la imagen capturada o creada para mejorarla, adaptarla o ajustarla según necesidades específicas de producción.
@@ -117,7 +117,7 @@
         .row.justify-content-center.mb-5
           .col-10
             figure
-              img(src='@/assets/curso/tema1/6.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/6.png', alt='')
           
         h2.mb-5 Imagen en mapa de bits (<em>raster</em>)
         p Representa una rejilla rectangular de píxeles o puntos de color. Se obtiene mediante dispositivos como cámaras digitales o escáneres. Cada píxel (<em>picture element</em>) constituye la unidad mínima de la imagen digital. Su calidad depende de la resolución.
@@ -129,7 +129,7 @@
         .row.justify-content-center.mb-5
           .col-10
             figure
-              img(src='@/assets/curso/tema1/7.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/7.svg', alt='')
           
         h2.mb-5 Imagen vectorial
         p Está compuesta por fórmulas matemáticas que definen líneas, curvas y formas geométricas. Puede ampliarse sin pérdida de calidad. Es frecuente en logotipos, tipografías y gráficos técnicos.
@@ -159,10 +159,10 @@
           .row.justify-content-center.mb-3
             .col-4
               figure
-                img(src='@/assets/curso/tema1/8.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema1/8.svg', alt='')
 
           h3.mb-4.text-center BMP
-          p.text-center Desarrollado para sistemas operativos Microsoft. Soporta hasta 24 <em>bits</em> por píxel. Genera archivos de gran tamaño, por lo que no es adecuado para páginas web.
+          p.text-center Desarrollado para sistemas operativos Microsoft. Soporta hasta 24 bits por píxel. Genera archivos de gran tamaño, por lo que no es adecuado para páginas web.
 
       .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-down")
         //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
@@ -172,7 +172,7 @@
           .row.justify-content-center.mb-3
             .col-4
               figure
-                img(src='@/assets/curso/tema1/9.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema1/9.svg', alt='')
 
           h3.mb-4.text-center TIFF
           p.text-center Utilizado para impresión y alta resolución. Soporta modelo de color CMYK y hasta 16 bits de profundidad de color. Prioriza calidad sobre tamaño. Es empleado por editoriales y medios impresos.
@@ -193,7 +193,7 @@
           .row.justify-content-center.mb-3
             .col-10
               figure
-                img(src='@/assets/curso/tema1/10.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema1/10.png', alt='')
 
           h3.mb-4.text-center Tamaño en píxeles
           p.text-center Número de filas y columnas que conforman la imagen. Determina el total de píxeles.
@@ -206,7 +206,7 @@
           .row.justify-content-center.mb-3
             .col-10
               figure
-                img(src='@/assets/curso/tema1/11.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema1/11.png', alt='')
 
           h3.mb-4.text-center Tamaño informático
           p.text-center Expresado en <em>bytes, kilobytes</em> o <em>megabytes</em>. Depende del número de píxeles y de la cantidad de información asignada a cada uno.
@@ -218,7 +218,7 @@
           .row.justify-content-center.mb-3
             .col-10
               figure
-                img(src='@/assets/curso/tema1/12.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema1/12.png', alt='')
 
           h3.mb-4.text-center Tamaño de salida
           p.text-center Dimensión física que ocupará la imagen al imprimirse. El editor define cuántos píxeles se reproducen por centímetro o pulgada.
@@ -320,7 +320,7 @@
         .row.justify-content-center.mb-5
           .col-10
             figure
-              img(src='@/assets/curso/tema1/21.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/21.png', alt='')
           
         h2.mb-5 Aspectos creativos
         p Se relacionan con la intención conceptual y semiótica del producto. Determinan el sentido-significación que se desea transmitir, la función de la imagen (principal o complementaria), su carácter ilustrativo o descriptivo y el estilo (realismo, figuración, entre otros).
@@ -332,12 +332,12 @@
         .row.justify-content-center.mb-5
           .col-10
             figure
-              img(src='@/assets/curso/tema1/22.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/22.png', alt='')
           
         h2.mb-5 Aspectos técnicos
         p Comprenden el manejo de herramientas del <em>software</em>, ajustes de color, iluminación, contraste, composición, formato y exportación del archivo final.
     
-    p.mb-5 Según Viveros (2005), lo conceptual incide directamente en la significación del producto. Estos aspectos fueron desarrollados en el componente formativo diseño para contenidos digitales, en el apartado de diseño, y se aplican tanto en la creación como en la captura o edición de imágenes digitales. Dentro de este marco se destacan dos procesos fundamentales: la composición digital y el retoque digital.
+    p.mb-5 Según Viveros (2005), lo conceptual incide directamente en la significación del producto. Estos aspectos fueron desarrollados en el componente formativo Diseño para contenidos digitales, en el apartado de diseño, y se aplican tanto en la creación como en la captura o edición de imágenes digitales. Dentro de este marco se destacan dos procesos fundamentales: la composición digital y el retoque digital.
 
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-lg-5
@@ -345,14 +345,14 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/23.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/23.png', alt='')
             .col-lg-7.mb-4.mb-md-0.order-lg-1
               h4 Composición digital
               p.mb-0 También denominada composición de efectos visuales, consiste en la creación de imágenes digitales mediante la manipulación y combinación de elementos provenientes de diferentes fuentes o herramientas digitales. Su objetivo es generar piezas homogéneas que conserven unidad formal y conceptual, independientemente de que los elementos integrados sean reales o construidos digitalmente.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/24.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/24.png', alt='')
             .col-lg-7.mb-4.mb-md-0.order-lg-1
               h4 Retoque digital
               p.mb-0 Aunque implica conocimiento técnico de las herramientas del <em>software</em>, el retoque digital posee igualmente una dimensión creativa. Permite modificar escenarios, iluminación, color y percepción para construir una nueva imagen o reforzar significados específicos. De esta manera, el retoque no solo optimiza la calidad técnica, sino que también potencia la intención comunicativa.
@@ -371,7 +371,7 @@
           .row.justify-content-center.mb-3
             .col-10
               figure
-                img(src='@/assets/curso/tema1/25.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema1/25.png', alt='')
 
           h3.mb-4.text-center Para computador
           p.text-center Mayor cantidad de funcionalidades y control avanzado. Requieren instalación y ocupan más espacio en disco. Exigen conocimientos técnicos y experiencia en diseño.
@@ -384,7 +384,7 @@
           .row.justify-content-center.mb-3
             .col-10
               figure
-                img(src='@/assets/curso/tema1/26.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema1/26.png', alt='')
 
           h3.mb-4.text-center Para celulares
           p.text-center Diseñadas para sistemas operativos como Android e iOS. Ocupan menos memoria y permiten edición inmediata, aunque con funciones más limitadas.
@@ -396,7 +396,7 @@
           .row.justify-content-center.mb-3
             .col-10
               figure
-                img(src='@/assets/curso/tema1/27.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema1/27.png', alt='')
 
           h3.mb-4.text-center Editores en línea
           p.text-center Funcionan desde el navegador sin descarga previa. Muchos ofrecen versiones gratuitas con funciones restringidas.
@@ -761,7 +761,7 @@
           .row.justify-content-center.mb-3
             .col-10
               figure
-                img(src='@/assets/curso/tema1/64.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema1/64.png', alt='')
 
           h3.mb-4.text-center <em>Travelling</em>
           p.text-center Movimiento de cámara que acompaña al personaje o elemento durante su desplazamiento de un lugar a otro.
@@ -774,7 +774,7 @@
           .row.justify-content-center.mb-3
             .col-10
               figure
-                img(src='@/assets/curso/tema1/65.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema1/65.png', alt='')
 
           h3.mb-4.text-center Panorámica o paneo
           p.text-center Movimiento horizontal de la cámara, generalmente de derecha a izquierda o viceversa, que permite abarcar una visión general del espacio.
@@ -786,7 +786,7 @@
           .row.justify-content-center.mb-3
             .col-10
               figure
-                img(src='@/assets/curso/tema1/66.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema1/66.png', alt='')
 
           h3.mb-4.text-center Plano grúa
           p.text-center Movimiento realizado mediante una grúa que eleva la cámara para captar imágenes desde una perspectiva cenital o elevada, con desplazamiento en distintas direcciones.
@@ -808,49 +808,49 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-3.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/68.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/68.png', alt='')
             .col-lg-7.mb-4.mb-md-0.order-lg-1
               h4 Plano general
               p.mb-0 Sitúa al espectador en el espacio donde ocurre la acción. Su objetivo principal es describir el entorno y contextualizar la escena.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-3.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/69.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/69.png', alt='')
             .col-lg-7.mb-4.mb-md-0.order-lg-1
               h4 Plano entero
               p.mb-0 Relacionado con el plano general, pero centra la atención en el personaje completo. El protagonismo recae en la figura humana y no en el decorado.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-3.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/70.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/70.png', alt='')
             .col-lg-7.mb-4.mb-md-0.order-lg-1
               h4 Plano americano
               p.mb-0 Surge en el <em>western</em>, donde era necesario incluir la pistola del vaquero. Comprende desde debajo de la cintura hasta la cabeza del personaje.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-3.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/71.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/71.png', alt='')
             .col-lg-7.mb-4.mb-md-0.order-lg-1
               h4 Plano medio
               p.mb-0 Encuadra al personaje desde la cintura hasta la cabeza. Permite equilibrar expresión facial y lenguaje corporal.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-3.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/72.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/72.png', alt='')
             .col-lg-7.mb-4.mb-md-0.order-lg-1
               h4 Primer plano
               p.mb-0 Destaca el rostro del personaje. Es altamente expresivo; se ha señalado que constituye “el reflejo del alma” (Lourdes, 2000, p. 56).
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-3.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/73.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/73.png', alt='')
             .col-lg-7.mb-4.mb-md-0.order-lg-1
               h4 Primerísimo primer plano
               p.mb-0 Acercamiento muy marcado al rostro. Abarca desde debajo de los labios hasta las cejas, enfatizando la expresión emocional.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-3.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema1/74.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema1/74.png', alt='')
             .col-lg-7.mb-4.mb-md-0.order-lg-1
               h4 Plano de detalle
               p.mb-0 Resalta elementos específicos considerados fundamentales para la acción narrativa. Dirige la atención hacia objetos o fragmentos concretos.
@@ -895,7 +895,7 @@
         .row.justify-content-center.mb-5
           .col-10
             figure
-              img(src='@/assets/curso/tema1/76.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/76.png', alt='')
           
         h2.mb-5 Guion técnico o guion de montaje
         p Documento clave que organiza el orden de inserción de los elementos narrativos. Define la unión entre escenas, los tipos de plano, las transiciones, las secuencias y los recursos sonoros y gráficos que acompañan cada momento.
@@ -907,7 +907,7 @@
         .row.justify-content-center.mb-5
           .col-10
             figure
-              img(src='@/assets/curso/tema1/77.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema1/77.png', alt='')
           
         h2.mb-5 Programa de edición
         p <em>Software</em> especializado que permite cortar, unir, ajustar, incorporar efectos, sincronizar audio y exportar el producto final en distintos formatos.
@@ -930,7 +930,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
         h3.titulo-con-imagen__texto Programas de edición de video
     
-    p.mb-5 Al igual que en la edición de imágenes estáticas, existe una amplia variedad de software especializados para realizar el montaje y la edición de video. Estas herramientas permiten organizar secuencias, integrar audio, aplicar efectos, generar animaciones y exportar productos audiovisuales en diferentes formatos según los requerimientos del proyecto. A continuación, se presentan algunos de los programas más utilizados en el ámbito profesional y semiprofesional:
+    p.mb-5 Al igual que en la edición de imágenes estáticas, existe una amplia variedad de software especializado para realizar el montaje y la edición de video. Estas herramientas permiten organizar secuencias, integrar audio, aplicar efectos, generar animaciones y exportar productos audiovisuales en diferentes formatos según los requerimientos del proyecto. A continuación, se presentan algunos de los programas más utilizados en el ámbito profesional y semiprofesional:
 
     .row.justify-content-center
       .col-lg-10

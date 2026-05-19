@@ -9,7 +9,7 @@
 
     .bg-full-width.bg-color-3
       .px-4.px-md-5.py-4
-        p.mb-5 La creación o desarrollo de sitios web trasciende el concepto tradicional de diseño, ya que integra dimensiones técnicas, estratégicas y funcionales que convergen para producir un entorno digital coherente. Este proceso combina estructura, programación, experiencia de usuario y objetivos corporativos con el fin de construir un producto que cumpla características definidas: calidad estética, adecuada navegabilidad y funcionalidad eficiente
+        p.mb-5 La creación o desarrollo de sitios web trasciende el concepto tradicional de diseño, ya que integra dimensiones técnicas, estratégicas y funcionales que convergen para producir un entorno digital coherente. Este proceso combina estructura, programación, experiencia de usuario y objetivos corporativos con el fin de construir un producto que cumpla características definidas: calidad estética, adecuada navegabilidad y funcionalidad eficiente.
 
         .row.justify-content-center
           .col-lg-8
@@ -116,7 +116,7 @@
               .col-6
                 img(src='@/assets/curso/tema2/10.svg' alt='AvatarTop')
             h2.text-center Componentes de seguridad y respaldo
-            p.text-center Protegen la información y garantizan continuidad operativa.
+            p.text-center Protegen la información y garantizan la continuidad operativa.
 
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
@@ -215,35 +215,35 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/16.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/16.png', alt='')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
               h4 <em>Wireframe</em>
               p.mb-0 Boceto preliminar del sitio <em>web</em> que puede elaborarse con lápiz y papel o mediante herramientas digitales. Representa, a través de recuadros, líneas y trazos, la estructura del contenido, la interfaz, el sistema de navegación y el funcionamiento general de la página. Se centra en la organización y jerarquía de los elementos, sin incluir aún detalles gráficos definitivos.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/17.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/17.png', alt='')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
               h4 <em>Mockup</em>
               p.mb-0 Fase posterior al <em>wireframe</em>. Presenta una versión más detallada del diseño en la que se definen dimensiones, distribución de elementos, tipografía, imágenes, iconos y logotipos. Incorpora componentes gráficos que permiten aproximarse con mayor precisión al resultado final.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/18.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/18.png', alt='')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
               h4 <em>Prototipo dinámico</em>
               p.mb-0 Representación de alta fidelidad correspondiente a la página <em>web</em> en formato <em>HTML</em> con interacción funcional. Permite evaluar el comportamiento, la navegación y la respuesta del sistema antes de su lanzamiento definitivo.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/19.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/19.png', alt='')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
               h4 <em>Frameworks</em>
               p.mb-0 Estructura base utilizada como punto de partida para desarrollar proyectos con objetivos específicos. Funciona como plantilla o esquema conceptual que simplifica el proceso de desarrollo al ofrecer componentes predefinidos adaptables a las necesidades del proyecto.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/20.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/20.png', alt='')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
               h4 <em>Frontend</em>
               p Parte de la aplicación que interactúa directamente con el usuario. Corresponde al lado del cliente y define la presentación de los elementos y el comportamiento de la interacción. Incluye tipografías, colores, adaptación a distintas pantallas mediante diseño adaptable <em>(Responsive Web Design o RWD)</em>, efectos de interacción y desplazamientos.
@@ -256,7 +256,7 @@
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.3 <em>Software</em> para hacer diagramas
     
-    p.mb-5 El diseño de diagramas puede realizarse mediante plataformas o herramientas digitales specializadas. Para facilitar su comprensión, estas aplicaciones pueden clasificarse en dos grupos: aquellas creadas específicamente para diagramación y aquellas que, aunque fueron concebidas con otros fines, permiten desarrollar diagramas gracias a sus capacidades gráficas avanzadas. A continuación, se presentan programas diseñados originalmente para la elaboración de diagramas:
+    p.mb-5 El diseño de diagramas puede realizarse mediante plataformas o herramientas digitales especializadas. Para facilitar su comprensión, estas aplicaciones pueden clasificarse en dos grupos: aquellas creadas específicamente para diagramación y aquellas que, aunque fueron concebidas con otros fines, permiten desarrollar diagramas gracias a sus capacidades gráficas avanzadas. A continuación, se presentan programas diseñados originalmente para la elaboración de diagramas:
 
     .row.mb-5.align-items-center.justify-content-center
       .col-md-8.col-lg-4.mb-3.mb-lg-0
@@ -295,7 +295,7 @@
           .row.justify-content-center.mb-3
             .col-4
               figure
-                img(src='@/assets/curso/tema2/22.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema2/22.png', alt='')
 
           h3.mb-4.text-center <em>CorelDRAW</em>
           p.text-center Programa de diseño vectorial que permite crear diagramas, organigramas y estructuras visuales mediante herramientas de dibujo y alineación.
@@ -308,7 +308,7 @@
           .row.justify-content-center.mb-3
             .col-4
               figure
-                img(src='@/assets/curso/tema2/23.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema2/23.png', alt='')
 
           h3.mb-4.text-center <em>Adobe FreeHand</em>
           p.text-center Editor vectorial originalmente desarrollado por Macromedia y posteriormente por Adobe. Permitía la elaboración de esquemas y representaciones gráficas estructuradas.
@@ -321,7 +321,7 @@
           .row.justify-content-center.mb-3
             .col-4
               figure
-                img(src='@/assets/curso/tema2/24.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema2/24.png', alt='')
 
           h3.mb-4.text-center <em>Adobe Illustrator</em>
           p.text-center Herramienta profesional de diseño vectorial que facilita la construcción de diagramas complejos mediante formas, capas y guías de alineación.
@@ -339,21 +339,21 @@
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/25.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/25.png', alt='')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
               h4 Definición de zonas de trabajo
               p.mb-0 Establecer áreas estructurales que soporten el contenido del sitio y faciliten futuras actualizaciones, atendiendo a las necesidades reales de la arquitectura de información.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/26.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/26.png', alt='')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
               h4 Separación entre contenido y presentación
-              p.mb-0 Diferenciar los archivos de contenido de los archivos que definen propiedades gráficas (.css). Esta práctica facilita el mantenimiento, optimiza la velocidad de carga y permite personalización.
+              p.mb-0 Diferenciar los archivos de contenido de los archivos que definen propiedades gráficas (.css). Esta práctica facilita el mantenimiento, optimiza la velocidad de carga y permite la personalización.
           .row.justify-content-center.align-items-center.p-3.p-lg-4
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
-                img(src='@/assets/curso/tema2/27.png', alt='Imagen de acompañamiento')
+                img(src='@/assets/curso/tema2/27.png', alt='')
             .col-lg-5.mb-4.mb-md-0.order-lg-1
               h4 Uso de estándares <em>web</em>
               p.mb-0 Aplicar recomendaciones lideradas por el <em>World Wide Web Consortium (W3C)</em>, garantizando accesibilidad universal, robustez técnica y compatibilidad con distintos dispositivos y tecnologías.
@@ -492,7 +492,7 @@
             img.titulo-con-imagen__imagen(src="@/assets/componentes/1.png")
             h3.titulo-con-imagen__texto CSS
         
-    p.mb-5 CSS corresponde a <em>Cascading Style Sheets </em>(Hojas de Estilo en Cascada). Su función es controlar la apariencia visual del sitio <em>web</em> y permitir una presentación coherente y diferenciada. Las hojas de estilo se superponen siguiendo un modelo jerárquico, aplicando reglas en función de factores como el tamaño y la resolución de la pantalla del dispositivo. Desde su aparición en 1993, HTML ha evolucionado hasta consolidarse como estándar en su versión HTML5. Esta evolución ha sido posible gracias a la integración con CSS, que permite incorporar funcionalidades avanzadas como:
+    p.mb-5 CSS corresponde a <em>Cascading Style Sheets </em>(Hojas de estilo en cascada). Su función es controlar la apariencia visual del sitio <em>web</em> y permitir una presentación coherente y diferenciada. Las hojas de estilo se superponen siguiendo un modelo jerárquico, aplicando reglas en función de factores como el tamaño y la resolución de la pantalla del dispositivo. Desde su aparición en 1993, HTML ha evolucionado hasta consolidarse como estándar en su versión HTML5. Esta evolución ha sido posible gracias a la integración con CSS, que permite incorporar funcionalidades avanzadas como:
 
     .row.justify-content-center
       .col-lg-8
@@ -532,7 +532,7 @@
               img(src="@/assets/curso/tema2/37.png", data-aos="zoom-in")
           .col-lg-8.order-lg-1
             .bg-color-1.p-5
-              p.mb-0 La estructuración técnica de un sitio <em>web</em> constituye un proceso estratégico que integra aspectos conceptuales, temáticos y técnicos. No se trata únicamente de definir una arquitectura organizada, sino de planificar cómo se presentará la temática, cómo se distribuirán los contenidos y de qué manera se garantizará una experiencia de usuario coherente. Sin una adecuada planificación conceptual resulta imposible consolidar posteriormente una estructura técnica eficiente. 
+              p.mb-0 La estructuración técnica de un sitio <em>web</em> constituye un proceso estratégico que integra aspectos conceptuales, temáticos y técnicos. No se trata únicamente de definir una arquitectura organizada, sino de planificar cómo se presentará la temática, cómo se distribuirán los contenidos y de qué manera se garantizará una experiencia de usuario coherente. Sin una adecuada planificación conceptual, resulta imposible consolidar posteriormente una estructura técnica eficiente. 
         
         .titulo-con-imagen.mb-5(data-aos="fade-right")
           .titulo-con-imagen__fondo
@@ -564,7 +564,7 @@
           .row.justify-content-center.mb-3
             .col-4
               figure
-                img(src='@/assets/curso/tema2/39.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema2/39.svg', alt='')
 
           h3.mb-4.text-center Claridad semántica
           p.text-center Incluir palabras clave relacionadas con el contenido.
@@ -577,7 +577,7 @@
           .row.justify-content-center.mb-3
             .col-4
               figure
-                img(src='@/assets/curso/tema2/40.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema2/40.svg', alt='')
 
           h3.mb-4.text-center Estructura jerárquica
           p.text-center Reflejar la organización de categorías y subcategorías.
@@ -590,7 +590,7 @@
           .row.justify-content-center.mb-3
             .col-4
               figure
-                img(src='@/assets/curso/tema2/41.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema2/41.svg', alt='')
 
           h3.mb-4.text-center Simplicidad
           p.text-center Evitar caracteres innecesarios o estructuras complejas.
@@ -610,7 +610,7 @@
         .row.justify-content-center.mb-5
           .col-10
             figure
-              img(src='@/assets/curso/tema2/42.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema2/42.png', alt='')
           
         h2.mb-5 Orientación al usuario
         p Facilitan el recorrido dentro del sitio y apoyan la toma de decisiones mediante llamadas a la acción.
@@ -622,12 +622,12 @@
         .row.justify-content-center.mb-5
           .col-10
             figure
-              img(src='@/assets/curso/tema2/43.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema2/43.png', alt='')
           
         h2.mb-5 Rastreo por motores de búsqueda
         p Permiten que <em>Google</em> indexe las páginas de manera más eficiente, mejorando el posicionamiento.
 
-    p Una estructura bien conectada optimiza la experiencia del usuario y facilita el trabajo de indexación de los motores de búsqueda. Por ello, la usabilidad y la estructura técnica se encuentran estrechamente relacionadas dentro del diseño web.
+    p.mb-5 Una estructura bien conectada optimiza la experiencia del usuario y facilita el trabajo de indexación de los motores de búsqueda. Por ello, la usabilidad y la estructura técnica se encuentran estrechamente relacionadas dentro del diseño web.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -659,7 +659,7 @@
               .row.justify-content-center.mb-3
                 .col-10
                   figure
-                    img(src='@/assets/curso/tema2/45.png', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/tema2/45.png', alt='')
 
               h5.text-center Uso de layouts fluidos.
 
@@ -671,7 +671,7 @@
               .row.justify-content-center.mb-3
                 .col-10
                   figure
-                    img(src='@/assets/curso/tema2/46.png', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/tema2/46.png', alt='')
 
               h5.text-center Imágenes adaptables.
           
@@ -683,7 +683,7 @@
               .row.justify-content-center.mb-3
                 .col-10
                   figure
-                    img(src='@/assets/curso/tema2/47.png', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/tema2/47.png', alt='')
 
               h5.text-center Implementación de media queries en CSS3.
 
@@ -725,7 +725,7 @@
           div(titulo="No requiere doble diseño")
             p.ms-5.mb-0 No es necesario desarrollar versiones independientes para escritorio y móvil, lo que optimiza tiempo y recursos.
           div(titulo="Administración simplificada")
-            p.ms-5.mb-0 Las actualizaciones se reflejan en todos los dispositivos, reduciendo costos operativos y mantenimiento.
+            p.ms-5.mb-0 Las actualizaciones se reflejan en todos los dispositivos, reduciendo costos operativos y de mantenimiento.
           div(titulo="Mayor alcance de audiencia")
             p.ms-5.mb-0 Permite llegar a usuarios que acceden desde múltiples dispositivos, ampliando la cobertura digital.
     
