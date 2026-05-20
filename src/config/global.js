@@ -368,7 +368,7 @@ export default {
       ],
     },
     {
-      titulo: 'GESTORES DE REPOSITORIO',
+      titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
           nombre: 'Javier Ricardo Ortiz Puentes',

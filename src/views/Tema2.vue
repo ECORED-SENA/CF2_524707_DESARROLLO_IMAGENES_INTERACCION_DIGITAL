@@ -86,49 +86,49 @@
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/tema2/6.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/6.svg' alt='')
             h2.text-center Servidores
             p.text-center Gestionan y distribuyen los recursos del sitio.
 
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/tema2/7.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/7.svg' alt='')
             h2.text-center Bases de datos
             p.text-center Almacenan y organizan la información estructurada.
 
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/tema2/8.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/8.svg' alt='')
             h2.text-center Redes
             p.text-center Permiten la comunicación entre sistemas y usuarios.
           
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/tema2/9.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/9.svg' alt='')
             h2.text-center <em>HTML</em>
             p.text-center Lenguaje de marcado que estructura el contenido.
 
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/tema2/10.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/10.svg' alt='')
             h2.text-center Componentes de seguridad y respaldo
             p.text-center Protegen la información y garantizan la continuidad operativa.
 
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/tema2/11.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/11.svg' alt='')
             h2.text-center Inteligencia de contenidos
             p.text-center Optimiza la organización y recuperación de información.
           
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/tema2/12.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/12.svg' alt='')
             h2.text-center <em>Interlinking</em>
             p.text-center Define la organización de enlaces internos entre páginas.
 
@@ -392,35 +392,35 @@
               .tarjeta.bg-color-white.p-4
                 .row.justify-content-center.mb-5
                   .col-6
-                    img(src='@/assets/curso/tema2/30.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/30.svg' alt='')
                 h2.text-center <em>HTML5</em>
                 p.text-center Estructura y organización del contenido.
 
               .tarjeta.bg-color-white.p-4
                 .row.justify-content-center.mb-5
                   .col-6
-                    img(src='@/assets/curso/tema2/31.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/31.svg' alt='')
                 h2.text-center <em>CSS3</em>
                 p.text-center Definición de estilos y presentación visual.
 
               .tarjeta.bg-color-white.p-4
                 .row.justify-content-center.mb-5
                   .col-6
-                    img(src='@/assets/curso/tema2/32.svg' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/32.svg' alt='')
                 h2.text-center <em>JavaScript</em>
                 p.text-center Interactividad y comportamiento dinámico.
               
               .tarjeta.bg-color-white.p-4
                 .row.justify-content-center.mb-5
                   .col-6
-                    img(src='@/assets/curso/tema2/33.png' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/33.png' alt='')
                 h2.text-center <em>jQuery</em>
                 p.text-center Biblioteca que simplifica el uso de <em>JavaScript</em>.
 
               .tarjeta.bg-color-white.p-4
                 .row.justify-content-center.mb-5
                   .col-6
-                    img(src='@/assets/curso/tema2/34.png' alt='AvatarTop')
+                    img(src='@/assets/curso/tema2/34.png' alt='')
                 h2.text-center <em>Ajax</em>
                 p.text-center Comunicación asíncrónica con el servidor sin recargar la página.
 

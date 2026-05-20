@@ -236,49 +236,49 @@
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema1/13.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/13.png' alt='')
             h2.text-center RGB (<em>Red, Green, Blue</em>)
             p.text-center Modelo aditivo utilizado en pantallas y dispositivos electrónicos. Combina luz roja, verde y azul.
 
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema1/14.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/14.png' alt='')
             h2.text-center CMYK (<em>Cian, Magenta, Yellow, Black</em>)
             p.text-center Modelo sustractivo empleado en impresión.
 
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema1/15.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/15.png' alt='')
             h2.text-center HSB (<em>Hue, Saturation, Brightness</em>)
             p.text-center Define el color según tono, saturación y brillo.
           
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema1/16.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/16.png' alt='')
             h2.text-center Escala de grises
             p.text-center Imagen monocromática con hasta 256 niveles de negro.
 
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema1/17.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/17.png' alt='')
             h2.text-center <em>Lab</em>
             p.text-center Compuesto por un canal de luminosidad (L) y dos canales cromáticos: A (verde–rojo) y B (azul–amarillo) (M., 2014).
 
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema1/18.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/18.png' alt='')
             h2.text-center Mapa de <em>bits</em> (modo monocromático)
             p.text-center Utiliza únicamente blanco o negro para representar los píxeles.
           
           .tarjeta.bg-color-white.p-4
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema1/19.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/19.png' alt='')
             h2.text-center Color indexado
             p.text-center Limita la imagen a un máximo de 256 colores (M., 2014).
 
@@ -612,49 +612,49 @@
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
-                img(src='@/assets/curso/tema1/50.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/50.png' alt='')
             h2.text-center <em>Audacity</em>
             p.text-center Programa gratuito y de código abierto que permite grabar y editar sonido. Es ampliamente utilizado en entornos educativos y profesionales.
 
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
-                img(src='@/assets/curso/tema1/51.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/51.png' alt='')
             h2.text-center <em>Power Sound Editor</em>
             p.text-center Permite realizar tareas avanzadas de edición, grabación y mezcla de archivos de audio.
 
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
-                img(src='@/assets/curso/tema1/52.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/52.png' alt='')
             h2.text-center <em>mp3DirectCut</em>
             p.text-center Facilita la edición rápida de archivos MP3 sin necesidad de descomprimirlos previamente.
           
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
-                img(src='@/assets/curso/tema1/53.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/53.png' alt='')
             h2.text-center <em>Music Editor Free</em>
             p.text-center Software para grabar y editar música. Permite cortar, copiar, pegar y aplicar efectos a pistas de audio.
 
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
-                img(src='@/assets/curso/tema1/54.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/54.png' alt='')
             h2.text-center <em>Wavosaur</em>
             p.text-center Compatible con Windows 98, XP y Vista. Permite grabar y editar archivos WAV o MP3, con funciones básicas de edición.
 
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
-                img(src='@/assets/curso/tema1/55.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/55.png' alt='')
             h2.text-center <em>Expstudio</em>
             p.text-center Ofrece múltiples funciones de edición. La versión gratuita solo permite guardar archivos finales en formato WAV o MP2.
           
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
-                img(src='@/assets/curso/tema1/56.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/56.png' alt='')
             h2.text-center <em>DJ Audio Editor</em>
             p.text-center Limita la imagen a un máximo de 256 colores (M., 2014).
 
@@ -667,28 +667,28 @@
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
-                img(src='@/assets/curso/tema1/57.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/57.png' alt='')
             h2.text-center <em>WavePad</em>
             p.text-center Permite grabar y editar música, voz y otros archivos de audio. Incluye funciones básicas de edición. Disponible también para dispositivos móviles.
 
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
-                img(src='@/assets/curso/tema1/58.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/58.png' alt='')
             h2.text-center <em>Let's Make Music</em>
             p.text-center Orientado a la producción musical. Permite crear melodías, sintetizar y mezclar sonidos, y organizar composiciones.
 
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
-                img(src='@/assets/curso/tema1/59.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/59.png' alt='')
             h2.text-center <em>WaveSurfer</em>
             p.text-center Software de código abierto diseñado tanto para usuarios avanzados como principiantes.
           
           .tarjeta.bg-color-12.p-4
             .row.justify-content-center.mb-3
               .col-10
-                img(src='@/assets/curso/tema1/60.png' alt='AvatarTop')
+                img(src='@/assets/curso/tema1/60.png' alt='')
             h2.text-center <em>Adobe Audition</em>
             p.text-center Aplicación profesional desarrollada por <em>Adobe Systems Incorporated</em>. Ofrece un entorno multipista para edición, mezcla y producción de audio digital.
 
